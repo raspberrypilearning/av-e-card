@@ -18,7 +18,7 @@ Click on the **trashcan** icon to remove the default Scratch Cat Sprite.
 
 Now use the **Choose a Sprite** button to upload a new sprite.
 
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite)
+![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
 
 --- /task ---
 
