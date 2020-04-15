@@ -1,6 +1,6 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You will be making an audio-visual e-card that you can send to friends and family, using the Scratch platform.
 
 ### What you will make
 
