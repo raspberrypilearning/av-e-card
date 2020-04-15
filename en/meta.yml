@@ -1,4 +1,4 @@
-title: av-e-card
+title: "An Audio/Visual e-card"
 hero_image: images/banner.png
 description: av-e-card description
 version: 4
@@ -7,5 +7,7 @@ copyedit: false
 last_tested: "2020-04-15"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Recording your video
+  - title: Adding your GIF
+  - title: Adding some sound
+  - title: Sharing with friends and family

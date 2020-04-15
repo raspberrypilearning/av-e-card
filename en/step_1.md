@@ -5,11 +5,10 @@ You will be making an audio-visual e-card that you can send to friends and famil
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Click the green flag to view the e-card.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+<iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 --- /no-print ---
 
 --- print-only ---
@@ -22,13 +21,13 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
+- A computer with a webcam and microphone
+- An internet connection
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
+- A web-browser
 
 ### Downloads
 
@@ -41,8 +40,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+- How to covert a video to a GIF
+- How to animate a GIF in Scratch
+- How to add recorded sound to an animation
 
 --- /collapse ---
 
@@ -51,8 +51,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project](http://rpf.io/p/av-e-card-go).
 
 --- /collapse ---
