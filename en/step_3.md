@@ -26,7 +26,7 @@ Now use the **Choose a Sprite** button to upload a new sprite.
 
 Select your GIF from the file browser and then upload it.
 
-![image showing selection of gif in the file browser](images/select-gif.png)
+![image showing selection of GIF in the file browser](images/select-gif.png)
 
 --- /task ---
 
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and repostion it to the centre of the stage.
+You might also like to increase the size of the animation and reposition it to the centre of the stage.
 
 ```blocks3
 when flag clicked

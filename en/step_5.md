@@ -12,7 +12,7 @@ Make sure you are logged into Scratch, then click on the **Share** button, to al
 
 Click on the **Projects page** button once your project has been shared. This might take some time, as the GIF needs to be uploaded.
 
-![image showin Project Page button](images/projects-page.png)
+![image showing Project Page button](images/projects-page.png)
 
 --- /task ---
 

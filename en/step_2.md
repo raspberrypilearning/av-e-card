@@ -1,6 +1,6 @@
 ## Recording your video
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a gif as a Sprite, Scratch breaks the gif up, with each frame of the gif being a new costume of the new Sprite.
+You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a Sprite, Scratch breaks the GIF up, with each frame of the GIF being a new costume of the new Sprite.
 
 **Don't forget that the video you are going to create will be public, so make sure you have nothing that can identify your name or location in the shot, and get parental permission to use the video first**
 
@@ -18,7 +18,7 @@ title: Recording webcam video on Windows
 ---
 - Click on the Start menu and choose the **Camera** app.
 
-![image showing start menu with camera app selected in Winows](images/camera-app.png)
+![image showing start menu with camera app selected in Windows](images/camera-app.png)
 
 - Click on the Record button to record a few seconds of video
 
@@ -37,9 +37,9 @@ title: Recording webcam video on Windows
 title: Recording webcam video on macOS
 
 ---
-- Open up Quicktime player from your application menu.
+- Open up QuickTime player from your application menu.
 
-![image showing menu of apps on macOS with Quicktime player selected](images/quicktime.png)
+![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
 
 - Click on `File` > `New Movie Recording`, then allow access to the camera when prompted.
 
@@ -65,7 +65,7 @@ title: Recording webcam video on Chrome OS
 
 ![image showing camera app with Record being pressed](images/hitrecord.png)
 
-- Hit the record button again when you are finsihed and you will fidn your file in the Videos folder.
+- Hit the record button again when you are finished and you will find your file in the Videos folder.
 
 ![image showing opened video folder on Chrome OS](images/videosfolder.png)
 
@@ -83,11 +83,21 @@ Upload your video by using the **Browse** button, followed by the **Upload** but
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF, by choosing the **Optimise** checkbox. You might also liek to reduce the resolution.
+To make things a little faster in Scratch, you should optimise the GIF, by choosing the **Optimise** checkbox. You might also like to reduce the resolution.
 
 ![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
 
 --- /task ---
+
+--- task ---
+
+Click on the **Convert** button, and when the GIF has been created you can click on the **Save** icon to save your GIF.
+
+![image of the convert button on ezgif.com](images/convert_btn.png)
+![image of the save icon on ezgif.com](images/save_icon.png)
+
+--- /task ---
+
 
 --- task ---
 
