@@ -2,6 +2,8 @@
 
 You can't add recorded video to Scratch, but you can import GIFs. When you import a gif as a Sprite, Scratch breaks the gif up, with each frame of the gif being a new costume of the new Sprite.
 
+**Don't forget that the video you are going to create will be public, so make sure you have nothing that can identify your name or location in the shot, and get parental permission to use the video first**
+
 --- task ---
 
 Look at the collapsed sections below to see how to record a few seconds of video using your computer's webcam, then record a video and save it to your drive.
