@@ -83,6 +83,22 @@ next costume
 
 --- task ---
 
+It's also helpful to make sure you always start playing the animation from the first costume.
+
+```blocks3
+when flag clicked
+switch costume to (ezgif v)
+set size to (150) %
+forever
+repeat (35)
+next costume
+```
+
+--- /task ---
+
+
+--- task ---
+
 Click the green flag to watch your video being displayed on the stage.
 
 --- /task ---

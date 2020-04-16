@@ -1,6 +1,6 @@
 ## Recording your video
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a giff as a Sprite costume, it breaks it up into all the individual frames, with each frame of the GIF being a new costume.
+You can't add recorded video to Scratch, but you can import GIFs. When you import a gif as a Sprite, Scratch breaks the gif up, with each frame of the gif being a new costume of the new Sprite.
 
 --- task ---
 
@@ -35,7 +35,15 @@ title: Recording webcam video on Windows
 title: Recording webcam video on macOS
 
 ---
+- Open up Quicktime player from your application menu.
 
+![image showing menu of apps on macOS with Quicktime player selected](images/quicktime.png)
+
+- Click on `File` > `New Movie Recording`, then allow access to the camera when prompted.
+
+![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+
+- Once you are finished you can save or export your video, and it should appear on your desktop.
 
 
 --- /collapse ---
@@ -47,7 +55,17 @@ title: Recording webcam video on Chrome OS
 
 ---
 
+- Click on you application launcher and search for the **camera app**
 
+![image showing camera app being opened on Chrome OS](images/opencamera.png)
+
+- Select **Video** on the right hand side and then click on the record button.
+
+![image showing camera app with Record being pressed](images/hitrecord.png)
+
+- Hit the record button again when you are finsihed and you will fidn your file in the Videos folder.
+
+![image showing opened video folder on Chrome OS](images/videosfolder.png)
 
 --- /collapse ---
 
