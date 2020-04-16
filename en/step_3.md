@@ -61,7 +61,7 @@ Your animation might be a little fast though, so add a `wait`{:class="block3cont
 when flag clicked
 forever
 repeat (35)
-wait (0.04) seconds
++wait (0.04) seconds
 next costume
 ```
 
@@ -73,7 +73,7 @@ You might also like to increase the size of the animation and reposition it to t
 
 ```blocks3
 when flag clicked
-set size to (150) %
++set size to (150) %
 forever
 repeat (35)
 next costume
@@ -87,7 +87,7 @@ It's also helpful to make sure you always start playing the animation from the f
 
 ```blocks3
 when flag clicked
-switch costume to (ezgif v)
++switch costume to (ezgif v)
 set size to (150) %
 forever
 repeat (35)

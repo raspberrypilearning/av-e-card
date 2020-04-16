@@ -38,9 +38,10 @@ To play the sound, you can use a `broadcast`{:class="block3control"}. When the a
 
 ```blocks3
 when flag clicked
+switch costume to (ezgif v)
 set size to (150) %
 forever
-broadcast (message1 v)
++broadcast (message1 v)
 repeat (35)
 next costume
 ```
@@ -64,7 +65,7 @@ You might like to use a `wait`{:class="block3control"} block to control when the
 
 ```blocks3
 when I receive (message1 v)
-wait (0.4) seconds
++wait (0.4) seconds
 play sound (recording1 v) until done
 ```
 
