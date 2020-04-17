@@ -1,12 +1,12 @@
-## Recording your video
+## Record your video
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a Sprite, Scratch breaks the GIF up, with each frame of the GIF being a new costume of the new Sprite.
+You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, with each frame of the GIF being a new costume of the new sprite.
 
-**Don't forget that the video you are going to create will be public, so make sure you have nothing that can identify your name or location in the shot, and get parental permission to use the video first**
+**Remember that the video you are going to create will be public, so make sure you have nothing that can identify your name or location in the shot, and get parental permission to use the video first.**
 
 --- task ---
 
-Look at the collapsed sections below to see how to record a few seconds of video using your computer's webcam, then record a video and save it to your drive.
+Look at the collapsed sections below to learn how to record a few seconds of video using your computer's webcam, then record a video and save it to your drive.
 
 --- /task ---
 
@@ -16,11 +16,11 @@ Look at the collapsed sections below to see how to record a few seconds of video
 title: Recording webcam video on Windows
 
 ---
-- Click on the Start menu and choose the **Camera** app.
+- Click on the **Start** menu and choose the **Camera** app.
 
 ![image showing start menu with camera app selected in Windows](images/camera-app.png)
 
-- Click on the Record button to record a few seconds of video
+- Click the **Record** button to record a few seconds of video.
 
 ![image showing camera app with record button](images/record-win.png)
 
@@ -37,15 +37,15 @@ title: Recording webcam video on Windows
 title: Recording webcam video on macOS
 
 ---
-- Open up QuickTime player from your application menu.
+- Go to your **Applications** menu and open QuickTime Player.
 
 ![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
 
-- Click on `File` > `New Movie Recording`, then allow access to the camera when prompted.
+- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
 
 ![image showing prompt to allow camera access](images/allow_cam_macOS.png)
 
-- Once you are finished you can save or export your video, and it should appear on your desktop.
+- Once you have finished, you can save or export your video, and it should appear on your desktop.
 
 
 --- /collapse ---
@@ -57,25 +57,25 @@ title: Recording webcam video on Chrome OS
 
 ---
 
-- Click on you application launcher and search for the **camera app**
+- Click on your application launcher and search for the **Camera** app.
 
 ![image showing camera app being opened on Chrome OS](images/opencamera.png)
 
-- Select **Video** on the right hand side and then click on the record button.
+- Select **Video** on the right-hand side, and then click the **Record** button.
 
 ![image showing camera app with Record being pressed](images/hitrecord.png)
 
-- Hit the record button again when you are finished and you will find your file in the Videos folder.
+- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
 
 ![image showing opened video folder on Chrome OS](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, it needs converting to a GIF. [https://ezgif.com/video-to-gif](https://ezgif.com/video-to-gif){:target="_blank"} is an easy way to do this.
+Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [https://ezgif.com/video-to-gif](https://ezgif.com/video-to-gif){:target="_blank"}.
 
 --- task ---
 
-Upload your video by using the **Browse** button, followed by the **Upload** button.
+First, upload your video: click the **Browse...** button, followed by the **Upload** button.
 
 ![image showing ezgif.com upload interface](images/ezgif-upload.png)
 
@@ -83,7 +83,7 @@ Upload your video by using the **Browse** button, followed by the **Upload** but
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF, by choosing the **Optimise** checkbox. You might also like to reduce the resolution.
+To make things a little faster in Scratch, you should optimise the GIF. To do this, click the **Optimise** checkbox. You might also like to reduce the resolution.
 
 ![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
 
@@ -91,7 +91,7 @@ To make things a little faster in Scratch, you should optimise the GIF, by choos
 
 --- task ---
 
-Click on the **Convert** button, and when the GIF has been created you can click on the **Save** icon to save your GIF.
+Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![image of the convert button on ezgif.com](images/convert_btn.png)
 ![image of the save icon on ezgif.com](images/save_icon.png)
@@ -101,7 +101,7 @@ Click on the **Convert** button, and when the GIF has been created you can click
 
 --- task ---
 
-Check your **Downloads** folder for the GIF once you have finished.
+When you have finished, check your `Downloads` folder for the GIF.
 
 --- /task ---
 
