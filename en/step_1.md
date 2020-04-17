@@ -1,6 +1,6 @@
 ## Introduction
 
-You will be making an audio-visual e-card that you can send to friends and family, using the Scratch platform.
+In this project, you will make an audiovisual e-card that you can send to friends and family, using the Scratch platform.
 
 ### What you will make
 
@@ -27,7 +27,7 @@ title: What you will need
 ### Software
 
 - Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web-browser
+- A web browser
 
 ### Downloads
 
@@ -40,7 +40,7 @@ title: What you will need
 title: What you will learn
 ---
 
-- How to covert a video to a GIF
+- How to convert a video to a GIF
 - How to animate a GIF in Scratch
 - How to add recorded sound to an animation
 
