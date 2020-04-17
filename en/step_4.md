@@ -1,8 +1,8 @@
-## Adding some sound.
+## Add some sound
 
 --- task ---
 
-Click on the `Sounds`{:class="block3sounds"} tab for your sprite.
+Click on the **Sounds** tab for your sprite.
 
 ![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
 
@@ -10,7 +10,7 @@ Click on the `Sounds`{:class="block3sounds"} tab for your sprite.
 
 --- task ---
 
-In the bottom left of the screen, use the **Choose a sound** button to record a new sound.
+In the bottom left-hand corner of the screen, use the **Choose a Sound** button to record a new sound.
 
 ![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
 
@@ -18,7 +18,7 @@ In the bottom left of the screen, use the **Choose a sound** button to record a 
 
 --- task ---
 
-You might have to allow your web-browser to access your microphone. Just click on **Allow**
+You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
 
 ![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
 
@@ -26,7 +26,7 @@ You might have to allow your web-browser to access your microphone. Just click o
 
 --- task ---
 
-Click on the **Record** button to start recording you voice and then give a message to the recipient of your e-card.
+Click the **Record** button to start recording your voice and then give a message to the recipient of your e-card.
 
 ![image showing the record dialogue box within Scratch](images/record.png)
 
@@ -34,7 +34,7 @@ Click on the **Record** button to start recording you voice and then give a mess
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"}. When the animation loop starts.
+To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then use a `when I receive`{:class="block3control"} to start playing the sound.
+Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
 
 ```blocks3
 when I receive (message1 v)
