@@ -2,7 +2,7 @@
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](rpf.io/scratch-new) to open a new Scratch project.
+Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
 
 --- /task ---
 
