@@ -83,7 +83,7 @@ First, upload your video: click the **Browse** button, click on your file, then 
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimise** checkbox. You might also like to reduce the resolution.
+To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
 
 ![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
 
