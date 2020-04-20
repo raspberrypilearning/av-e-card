@@ -45,7 +45,7 @@ title: Recording webcam video on macOS
 
 ![image showing prompt to allow camera access](images/allow_cam_macOS.png)
 
-- Once you have finished, you can save or export your video, and it should appear on your desktop.
+- When you have finished, you can save or export your video, and it should appear on your desktop.
 
 
 --- /collapse ---
