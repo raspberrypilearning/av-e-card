@@ -16,7 +16,7 @@ Click on the **bin** icon to remove the default Scratch Cat sprite.
 
 --- task ---
 
-Now, click the **Choose a Sprite** button to upload a new sprite.
+Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
 
 ![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
 
