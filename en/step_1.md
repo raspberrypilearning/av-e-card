@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will make an audiovisual e-card that you can send to friends and family, using the Scratch platform.
+In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
 
 ### What you will make
 
