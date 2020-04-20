@@ -75,7 +75,7 @@ Now that you have the video, you need to convert it to a GIF. An easy way to do 
 
 --- task ---
 
-First, upload your video: click the **Browse...** button, click on your file, then click the **Upload** button.
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
 
 ![image showing ezgif.com upload interface](images/ezgif-upload.png)
 
@@ -83,7 +83,7 @@ First, upload your video: click the **Browse...** button, click on your file, th
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, click the **Optimise** checkbox. You might also like to reduce the resolution.
+To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimise** checkbox. You might also like to reduce the resolution.
 
 ![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
 
