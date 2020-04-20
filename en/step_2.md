@@ -6,7 +6,7 @@ You can't add recorded video to Scratch, but you can import GIFs. When you impor
 
 --- task ---
 
-Look at the collapsed sections below to learn how to record a few seconds of video using your computer's webcam, then record a video and save it to your drive.
+Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
 
 --- /task ---
 
