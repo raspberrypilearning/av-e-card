@@ -10,7 +10,7 @@ Click on the **Sounds** tab for your sprite.
 
 --- task ---
 
-In the bottom left-hand corner of the screen, use the **Choose a Sound** button to record a new sound.
+In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
 
 ![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
 
@@ -26,7 +26,7 @@ You might have to allow your web browser to access your microphone. To do this, 
 
 --- task ---
 
-Click the **Record** button to start recording your voice and then give a message to the recipient of your e-card.
+Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
 
 ![image showing the record dialogue box within Scratch](images/record.png)
 
