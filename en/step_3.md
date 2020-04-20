@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being displayed on the Stage.
+Click the green flag to watch your video being played on the Stage.
 
 --- /task ---
 
