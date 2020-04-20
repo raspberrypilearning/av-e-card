@@ -1,8 +1,8 @@
 ## Record your video
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, with each frame of the GIF being a new costume of the new sprite.
+You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that can identify your name or location in the shot, and get parental permission to use the video first.**
+**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
 
 --- task ---
 
@@ -71,11 +71,11 @@ title: Recording webcam video on Chrome OS
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [https://ezgif.com/video-to-gif](https://ezgif.com/video-to-gif){:target="_blank"}.
+Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at ezgif.com](https://ezgif.com/video-to-gif){:target="_blank"}.
 
 --- task ---
 
-First, upload your video: click the **Browse...** button, followed by the **Upload** button.
+First, upload your video: click the **Browse...** button, click on your file, then click the **Upload** button.
 
 ![image showing ezgif.com upload interface](images/ezgif-upload.png)
 
