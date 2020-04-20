@@ -71,7 +71,7 @@ title: Recording webcam video on Chrome OS
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at ezgif.com](https://ezgif.com/video-to-gif){:target="_blank"}.
+Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
 
 --- task ---
 
