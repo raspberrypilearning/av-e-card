@@ -1,40 +1,40 @@
-## Add some sound
+## Voeg wat geluid toe
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+Klik op de **Geluiden** tab van je sprite.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![afbeelding met geluidstabblad geselecteerd voor de sprite](images/sounds-tab.png)
+
+---/task---
+
+--- task ---
+
+Beweeg de muisaanwijzer links onderin het scherm over de **Kies een geluid** knop en selecteer **Opnemen** om een nieuw geluid op te nemen.
+
+![afbeelding met geluidsknop geselecteerd met een geluid gemarkeerd](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+Mogelijk moet je jouw webbrowser toegang geven tot je microfoon. Klik vervolgens op **Toestaan**.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
+![afbeelding met webbrowser prompt om toegang tot microfoon mogelijk te maken](images/allow-mic.png)
 
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
-
---- /task ---
+-- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+Klik op de **Opnemen** knop om een paar seconden je stem op te nemen. Als je klaar bent met je bericht voor de ontvanger van je e-card, klik je op **Stop met opnemen** en klik vervolgens op **Opslaan**.
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![afbeelding met het opname dialoogvenster in Scratch](images/record.png)
 
---- /task ---
+---/task---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+Om het geluid af te spelen, kun je een `zend signaal`{:class="block3control"} blok gebruiken aan het begin van de animatielus.
 
 ```blocks3
 when flag clicked
@@ -46,22 +46,22 @@ repeat (35)
 next costume
 ```
 
---- /task ---
+---/task---
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+Gebruik vervolgens een `wanneer ik signaal ontvang`{:class="block3control"} blok om het geluid af te spelen.
 
 ```blocks3
-when I receive (message1 v)
-play sound (recording1 v) until done
+wanneer ik signaal (bericht1 v) ontvang
+start geluid (opname1 v) en wacht
 ```
 
---- /task ---
+---/task---
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+Misschien wil je een `wacht`{:class="block3control"} blok gebruiken om te bepalen wanneer het geluid wordt afgespeeld.
 
 ```blocks3
 when I receive (message1 v)
@@ -69,7 +69,7 @@ when I receive (message1 v)
 play sound (recording1 v) until done
 ```
 
---- /task ---
+---/task---
 
 
 
