@@ -1,10 +1,10 @@
-## Introduction
+## Introduzione
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+In questo progetto, utilizzerai la piattaforma Scratch per creare un biglietto di auguri multimediale che puoi inviare ad amici e parenti.
 
-### What you will make
+### Che cosa creerai
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Clicca sulla bandiera verde per vedere il biglietto d'auguri. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: Di cosa avrai bisogno
 ---
 ### Hardware
 
-- A computer with a webcam and microphone
-- An internet connection
+- Un computer con webcam e microfono
+- Una connessione internet
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 ([online](http://rpf.io/scratchon) o [offline](http://rpf.io/scratchoff))
+- Un browser web
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Cosa imparerai
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- Come convertire un video in una GIF
+- Come animare una GIF in Scratch
+- Come aggiungere l'audio registrato a un'animazione
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informazioni aggiuntive per gli educatori
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
 --- /collapse ---
