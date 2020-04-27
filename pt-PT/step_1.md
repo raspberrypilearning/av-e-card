@@ -1,47 +1,14 @@
-## Introduction
+## What you will make
+In this resource you will make an infrared bird box. This project will not only teach you about electronics and programming, but can also help support the bird population in your area. Having a camera inside a nesting box can be tremendously rewarding; however, with the Raspberry Pi you can also share the nesting box with the world by streaming the video content to the internet. Watch as your birds gain their own internet following!
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+## What you will learn
+By creating an infrared bird box you will learn:
 
-### What you will make
+- How to set up up a Raspberry Pi with an infrared camera module
+- How to connect an infrared LED to a Raspberry Pi
+- How to adjust the camera focus on a Raspberry Pi camera module
+- How to control the camera and LED to see what is happening inside the bird box
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
---- /no-print ---
 
---- print-only --- ![Complete project](images/showcase_static.png) --- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-- A computer with a webcam and microphone
-- An internet connection
-
-### Software
-
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
-
---- /collapse ---
