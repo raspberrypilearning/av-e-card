@@ -22,7 +22,7 @@ Mogelijk moet je jouw webbrowser toegang geven tot je microfoon. Klik vervolgens
 
 ![afbeelding met webbrowser prompt om toegang tot microfoon mogelijk te maken](images/allow-mic.png)
 
--- /task ---
+--- /task ---
 
 --- task ---
 
