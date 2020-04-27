@@ -6,7 +6,7 @@ Nu je je audiovisuele e-card hebt gemaakt, is het tijd om deze te delen met je v
 
 Zorg ervoor dat je bent aangemeld bij Scratch en klik vervolgens op de **Delen** knop, zodat anderen je project kunnen bekijken.
 
----/task---
+--- /task ---
 
 --- task ---
 
@@ -22,7 +22,7 @@ Je kunt nu de link voor je project kopiëren en delen via e-mail, een sociaal ne
 
 ![afbeelding met kopieer link knop](images/copy-link.png)
 
--- /task ---
+--- /task ---
 
 ***
 
