@@ -1,10 +1,10 @@
-## Introduction
+## Inleiding
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+In dit project gebruik je het Scratch-platform om een audiovisuele e-card te maken die je naar vrienden en familie kunt sturen.
 
-### What you will make
+### Wat ga je maken
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Klik op de groene vlag om de e-card te bekijken. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 ### Hardware
 
-- A computer with a webcam and microphone
-- An internet connection
+- Een computer met een webcam en microfoon
+- Een internetverbinding
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 (of [online](http://rpf.io/scratchon) of [offline](http://rpf.io/scratchoff))
+- Een webbrowser
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- Hoe een video naar een GIF te converteren
+- Een GIF animeren in Scratch
+- Hoe opgenomen geluid aan een animatie toe te voegen
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
 --- /collapse ---
