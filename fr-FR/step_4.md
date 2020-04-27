@@ -1,40 +1,40 @@
-## Add some sound
+## Ajoute du son
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+Clique sur l'onglet **Sons** pour ton sprite.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![image montrant les onglets de sons sélectionnés pour le sprite](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+Dans le coin inférieur gauche de l'écran, passe la souris sur **Choisir un son** et sélectionne ** Enregistrer** pour enregistrer un nouveau son.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![image montrant le bouton des sons sélectionnés avec enregistrement d'un son mis en évidence](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+Tu devras peut-être autoriser ton navigateur Web à accéder à ton microphone. Pour ce faire, clique sur **Autoriser**.
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![image montrant l'invite du navigateur Web pour permettre l'accès au microphone](images/allow-mic.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+Clique sur **Enregistrer** pour enregistrer quelques secondes de ta voix. Lorsque tu as terminé ton message pour le destinataire de ta carte virtuelle, clique sur **Arrêter l'enregistrement**, puis clique sur **Enregistrer**.
+
+![image montrant la boîte de dialogue d'enregistrement dans Scratch](images/record.png)
+
+--- /task ---
+
+--- task ---
+
+Pour lire le son, tu peux utiliser un bloc `envoyer à tous`{:class="block3control"} quand la boucle d'animation démarre.
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+Ensuite, utilise un bloc `quand je reçois`{:class="block3control"} pour commencer la lecture du son.
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+Tu aimerais peut-être utiliser un bloc `attendre`{:class="block3control"} pour contrôler le début de la lecture du son.
 
 ```blocks3
 when I receive (message1 v)
