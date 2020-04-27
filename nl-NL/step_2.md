@@ -1,32 +1,32 @@
-## Record your video
+## Neem je video op
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+Je kunt geen opgenomen video toevoegen aan Scratch, maar je kunt wel GIF's importeren. Als je een GIF als sprite importeert, deelt Scratch de GIF op in frames en elk frame wordt een nieuw uiterlijk voor de nieuwe sprite.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**Vergeet niet dat de video die je gaat maken openbaar is, dus zorg ervoor dat er niets in zit dat je naam of locatie in de opname kan identificeren, en vraag eerst toestemming aan je ouders om de video te maken en te gebruiken.**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+Bekijk de samengevouwen secties hieronder om je te helpen een paar seconden video op te nemen met de webcam van je computer en sla de video vervolgens op je harde schijf op.
 
---- /task ---
+---/task---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: Webcamvideo opnemen op Windows
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- Klik op het **Start** menu en kies de **Camera** app.
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![afbeelding met startmenu met camera app geselecteerd in Windows](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- Klik op de **Record** knop om een paar seconden video op te nemen.
 
-![image showing camera app with record button](images/record-win.png)
+![afbeelding met camera app met opnameknop](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- Je video zou moeten verschijnen in je `Afbeeldingen\Camera-album` map.
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![afbeelding met opgenomen video in de camera-album map](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: Webcamvideo opnemen op macOS
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- Ga naar je **Applicaties** menu en open QuickTime Player.
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![afbeelding met menu van apps op macOS met QuickTime speler geselecteerd](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- Klik op **Bestand** > **Nieuwe filmopname** en geef vervolgens toegang tot de camera wanneer daarom wordt gevraagd.
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![afbeelding met prompt om cameratoegang toe te staan](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- Als je klaar bent, kun je je video opslaan of exporteren en zou deze op je bureaublad moeten verschijnen.
 
 
 --- /collapse ---
@@ -53,56 +53,56 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: Webcamvideo opnemen op Chrome OS
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- Klik op je applicatiestarter en zoek naar de **Camera** app.
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![afbeelding van camera app die wordt geopend in Chrome OS](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- Selecteer **Video** aan de rechterkant en klik vervolgens op de **Record** knop.
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![afbeelding met camera app terwijl Record wordt ingedrukt](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- Als je klaar bent, klik je opnieuw op de **Record** knop, en je zult je bestand vinden in de `Video's` map.
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![afbeelding met geopende videomap in Chrome OS](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+Nu je de video hebt, moet je deze converteren naar een GIF. Een makkelijke manier om dit te doen is door [de converter te gebruiken op rpf.io/gif](https://rpf.io/gif) {:target="_blank"}.
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+Upload eerst je video: klik op de **Bladeren** knop, klik op je bestand en klik vervolgens op de **Uploaden** knop.
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![afbeelding met ezgif.com upload interface](images/ezgif-upload.png)
 
---- /task ---
-
---- task ---
-
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
-
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
-
---- /task ---
+---/task---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+Om dingen in Scratch iets sneller te maken, moet je de GIF optimaliseren. Selecteer hiervoor **Optimize** checkbox. Mogelijk wil je ook de resolutie verlagen.
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![Afbeelding met optimalisatie-opties op ezgif.com](images/optimise-gif.png)
 
---- /task ---
+---/task---
+
+--- task ---
+
+Klik op de **Convert** knop, en wanneer de GIF is gemaakt, klik op het **Save** pictogram om je GIF op te slaan.
+
+![afbeelding van de convert knop op ezgif.com](images/convert_btn.png) ![afbeelding van de convert knop op ezgif.com](images/save_icon.png)
+
+---/task---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+Kijk of de GIF in je `Downloads` map staat.
 
---- /task ---
+---/task---
 
 
 
