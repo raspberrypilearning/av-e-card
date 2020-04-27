@@ -4,7 +4,9 @@ In dit project gebruik je het Scratch-platform om een audiovisuele e-card te mak
 
 ### Wat ga je maken
 
---- no-print --- Klik op de groene vlag om de e-card te bekijken. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Klik op de groene vlag om de e-card te bekijken. 
+
+<iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

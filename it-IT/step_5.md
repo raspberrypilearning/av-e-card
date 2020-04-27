@@ -10,7 +10,7 @@ Assicurati di aver effettuato l'accesso a Scratch, quindi fai clic su **Condivid
 
 --- task ---
 
-Quando il progetto è stato condiviso, fai clic sul pulsante **Vai alla pagina del progetto **. Questo potrebbe richiedere del tempo, poiché è necessario caricare la GIF.
+Quando il progetto è stato condiviso, fai clic sul pulsante **Vai alla pagina del progetto**. Questo potrebbe richiedere del tempo, poiché è necessario caricare la GIF.
 
 ![immagine che mostra il pulsante Vai alla pagina del progetto](images/projects-page.png)
 

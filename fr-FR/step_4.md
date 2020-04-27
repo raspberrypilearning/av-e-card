@@ -10,7 +10,7 @@ Clique sur l'onglet **Sons** pour ton sprite.
 
 --- task ---
 
-Dans le coin inférieur gauche de l'écran, passe la souris sur **Choisir un son** et sélectionne ** Enregistrer** pour enregistrer un nouveau son.
+Dans le coin inférieur gauche de l'écran, passe la souris sur **Choisir un son** et sélectionne **Enregistrer** pour enregistrer un nouveau son.
 
 ![image montrant le bouton des sons sélectionnés avec enregistrement d'un son mis en évidence](images/record-sound.png)
 

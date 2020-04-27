@@ -65,7 +65,7 @@ title: Registrare video con la webcam su Chrome OS
 
 --- /collapse ---
 
-Ora che hai il video, devi convertirlo in GIF. Un modo semplice per farlo è usare [il convertitore su rpf.io/gif](https://rpf.io/gif) {:target="_ blank"}.
+Ora che hai il video, devi convertirlo in GIF. Un modo semplice per farlo è usare [il convertitore su rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
 
 --- task ---
 

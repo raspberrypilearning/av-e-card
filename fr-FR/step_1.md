@@ -4,7 +4,10 @@ Dans ce projet, tu utiliseras la plateforme Scratch pour créer une carte virtue
 
 ### Ce que tu feras
 
-Clique sur le drapeau vert pour voir la carte virtuelle. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print ---
+Clique sur le drapeau vert pour voir la carte virtuelle. 
+
+<iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
