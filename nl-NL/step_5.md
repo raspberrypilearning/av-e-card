@@ -1,28 +1,28 @@
-## Share your e-card with friends and family
+## Deel je e-card met vrienden en familie
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+Nu je je audiovisuele e-card hebt gemaakt, is het tijd om deze te delen met je vrienden en familie.
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+Zorg ervoor dat je bent aangemeld bij Scratch en klik vervolgens op de **Delen** knop, zodat anderen je project kunnen bekijken.
+
+---/task---
+
+--- task ---
+
+Wanneer je project is gedeeld, klik je op de **Bekijk van binnen** knop. Dit kan even duren, omdat de GIF moet worden geüpload.
+
+![afbeelding met de knop Bekijk van binnen](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+Je kunt nu de link voor je project kopiëren en delen via e-mail, een sociaal netwerk of een berichtenplatform.
 
-![image showing Project Page button](images/projects-page.png)
+![afbeelding met kopieer link knop](images/copy-link.png)
 
---- /task ---
-
---- task ---
-
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
-
-![image showing copy link button](images/copy-link.png)
-
---- /task ---
+-- /task ---
 
 
 
