@@ -6,7 +6,7 @@ Klik op de **Geluiden** tab van je sprite.
 
 ![afbeelding met geluidstabblad geselecteerd voor de sprite](images/sounds-tab.png)
 
----/task---
+--- /task ---
 
 --- task ---
 
@@ -30,7 +30,7 @@ Klik op de **Opnemen** knop om een paar seconden je stem op te nemen. Als je kla
 
 ![afbeelding met het opname dialoogvenster in Scratch](images/record.png)
 
----/task---
+--- /task ---
 
 --- task ---
 
@@ -46,7 +46,7 @@ repeat (35)
 next costume
 ```
 
----/task---
+--- /task ---
 
 --- task ---
 
@@ -57,7 +57,7 @@ when I receive (message1 v)
 play sound (recording1 v) until done
 ```
 
----/task---
+--- /task ---
 
 --- task ---
 
@@ -69,7 +69,7 @@ when I receive (message1 v)
 play sound (recording1 v) until done
 ```
 
----/task---
+--- /task ---
 
 
 
