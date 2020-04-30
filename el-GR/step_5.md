@@ -1,26 +1,26 @@
-## Share your e-card with friends and family
+## Διαμοιράσου την ηλεκτρονική σου κάρτα με φίλους και συγγενείς
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+Τώρα που έχεις δημιουργήσει την οπτικοακουστική ηλεκτρονική κάρτα σου, ήρθε η ώρα να την διαμοιράσεις με τους φίλους και την οικογένειά σου.
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+Βεβαιώσου ότι είσαι συνδεδεμένος στο Scratch και, στη συνέχεια, κάνε κλικ στο κουμπί **Μοιραστείτε**, για να επιτρέψεις σε άλλους να βλέπουν το έργο σου.
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+Όταν γίνει κοινή χρήση του έργου σου, κάντε κλικ στο κουμπί **Δείτε τη σελίδα έργου **. Αυτό μπορεί να διαρκέσει λίγο, καθώς το GIF πρέπει να φορτωθεί.
 
-![image showing Project Page button](images/projects-page.png)
+![εικόνα που δείχνει το κουμπί της σελίδας του έργου](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+Τώρα μπορείς να αντιγράψεις τον σύνδεσμο του έργου σου και να τον μοιραστείς μέσω email, κοινωνικών δικτύων ή πλατφόρμας ανταλλαγής μηνυμάτων.
 
-![image showing copy link button](images/copy-link.png)
+![εικόνα που δείχνει το κουμπί αντιγραφής συνδέσμου](images/copy-link.png)
 
 --- /task ---
 
