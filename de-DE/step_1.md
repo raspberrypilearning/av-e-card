@@ -1,10 +1,10 @@
-## Introduction
+## Einleitung
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+In diesem Projekt verwendest du die Scratch-Plattform, um eine audiovisuelle E-Card zu erstellen, die du an Freunde und Familie senden kannst.
 
-### What you will make
+### Was du machen wirst
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Klicke auf die grüne Flagge, um die Animation zu sehen. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchen wirst
 ---
 ### Hardware
 
-- A computer with a webcam and microphone
-- An internet connection
+- Ein Computer mit einer Webcam und einem Mikrofon
+- Eine Internetverbindung
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 (entweder [online](http://rpf.io/scratchon) oder [offline](http://rpf.io/scratchoff))
+- Einen Webbrowser
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- So konvertierst du ein Video in ein GIF
+- So animierst du ein GIF in Scratch
+- So fügst du einer Animation einen aufgenommenen Sound hinzu
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Zusätzliche Informationen für Pädagogen
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
 --- /collapse ---
