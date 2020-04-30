@@ -1,14 +1,14 @@
-## Add and animate your GIF in Scratch
+## Füge dein GIF zu Scratch hinzu und animiere es
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+Navigiere zu [rpf.io/scratch-new](https://rpf.io/scratch-new), um ein neues Scratch-Projekt zu öffnen.
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+Klicke auf das **Papierkorb**-Symbol, um die aktuelle Katzenfigur zu löschen.
 
 ![image showing cat sprite with trashcan icon](images/delete-sprite.png)
 
@@ -16,7 +16,7 @@ Click on the **bin** icon to remove the default Scratch Cat sprite.
 
 --- task ---
 
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
+Bewege den Mauszeiger nun über die **Wähle ein Figur** Schaltfläche und klicke dann auf **Figur hochladen**, um eine neue Figur hochzuladen.
 
 ![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
 
@@ -24,7 +24,7 @@ Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** 
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+Wähle dein GIF im Dateibrowser aus und lade es hoch.
 
 ![image showing selection of GIF in the file browser](images/select-gif.png)
 
@@ -32,29 +32,29 @@ Select your GIF from the file browser, then upload it.
 
 --- task ---
 
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
+Klicke auf den Reiter **Kostüme** für deine neue Figur und du solltest alle einzelnen Frames in deinem GIF sehen.
 
 ![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
 
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+Notiere dir die Gesamtzahl der Kostüme, die du hast, da dies bei der nächsten Aufgabe wichtig sein wird.
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+Um das GIF durchzuspielen, kannst du einen `wiederhole`{:class="block3control"} Block in einem `wiederhole fortlaufend`{:class="block3control"} Block verwenden. Der `wiederhole`{:class="block3control"} - Block sollte mit der Anzahl der Frames aus dem importierten GIF übereinstimmen.
 
 ```blocks3
-when flag clicked
-forever
-repeat (35)
-next costume
+wenn die Flagge angeklickt wird
+fortlaufend
+wiederhole (35)
+nächstes Kostüm
 ```
 --- /task ---
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+Deine Animation ist möglicherweise etwas schnell, füge also einen `warte`{:class="block3control"} Block hinzu, um es etwas zu verlangsamen.
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+Du kannst die Animation auch vergrößern und in der Mitte der Bühne neu positionieren.
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+Es ist auch hilfreich sicherzustellen, dass du die Animation immer vom ersten Kostüm an abspielst.
 
 ```blocks3
 when flag clicked
