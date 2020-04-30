@@ -1,10 +1,10 @@
-## Introduction
+## Εισαγωγή
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+Σε αυτό το έργο, θα χρησιμοποιήσεις την πλατφόρμα Scratch για να δημιουργήσεις μια οπτικοακουστική ηλεκτρονική κάρτα που μπορείς να στείλεις σε φίλους και συγγενείς.
 
-### What you will make
+### Τι θα φτιάξεις
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Κάνε κλικ στην πράσινη σημαία για να δεις την ηλεκτρονική κάρτα. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: Τι θα χρειαστείς
 ---
-### Hardware
+### Υλικό
 
-- A computer with a webcam and microphone
-- An internet connection
+- Έναν υπολογιστή με κάμερα και μικρόφωνο
+- Σύνδεση στο διαδίκτυο
 
-### Software
+### Λογισμικό
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 (είτε [σε σύνδεση](http://rpf.io/scratchon) είτε [εκτός σύνδεσης](http://rpf.io/scratchoff))
+- Ένα πρόγραμμα περιήγησης ιστού
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Τι θα μάθεις
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- Πώς να μετατρέπεις ένα βίντεο σε GIF
+- Πώς να δίνεις ζωή σε ένα GIF στο Scratch
+- Πώς να προσθέσεις εγγεγραμμένο ήχο σε μια κινούμενη εικόνα
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/av-e-card/print)"{:target="_blank"}.
 
 --- /collapse ---
