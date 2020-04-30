@@ -1,48 +1,48 @@
-## Add and animate your GIF in Scratch
+## Πρόσθεσε και ζωντάνεψε το GIF σου στο Scratch
 
---- task ---
+--- task --
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
-
---- /task ---
-
---- task ---
-
-Click on the **bin** icon to remove the default Scratch Cat sprite.
-
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
+Επισκέψου την ιστοσελίδα [rpf.io/scratch-new](https://rpf.io/scratch-new) για να ανοίξεις ένα νέο έργο Scratch.
 
 --- /task ---
 
 --- task ---
 
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
+Κάνε κλικ στο εικονίδιο **Απορρίμματα** για να διαγράψεις το προεπιλεγμένο αντικείμενο Scratch, τη γάτα.
 
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
-
---- /task ---
-
---- task ---
-
-Select your GIF from the file browser, then upload it.
-
-![image showing selection of GIF in the file browser](images/select-gif.png)
+![εικόνα που δείχνει το αντικείμενο της γάτας με εικονίδιο απορριμμάτων](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
+Τώρα, τοποθέτησε το δείκτη του ποντικιού πάνω από το κουμπί **Επέλεξε αντικείμενο**, και στη συνέχεια, κάνε κλικ στο **Μεταφόρτωση αντικειμένου** για να μεταφορτώσεις ένα νέο αντικείμενο.
 
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![εικόνα που δείχνει το μενού επέλεξε αντικείμενο με επιλεγμένη τη μεταφόρτωση αντικειμένου](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+Επέλεξε το GIF από το πρόγραμμα περιήγησης αρχείων και στη συνέχεια κάνε τη μεταφόρτωση.
+
+![εικόνα που δείχνει την επιλογή GIF στο πρόγραμμα περιήγησης αρχείων](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+Κάνοντας κλικ στην καρτέλα **Ενδυμασίες** για το νέο σου αντικείμενο  θα πρέπει να βλέπεις όλα τα μεμονωμένα καρέ από το GI σου.
+
+![εικόνα που δείχνει το GIF να μετατρέπεται σε μεμονωμένες ενδυμασίες στο Scratch](images/gif-costumes.png)
+
+Σημείωσε τον συνολικό αριθμό των ενδυμασιών που έχεις, καθώς αυτό θα είναι σημαντικό στην επόμενη εργασία.
+
+--- /task ---
+
+--- task ---
+
+Για να παίξεις με το GIF μπορείς να χρησιμοποιήσεις ένα μπλοκ `επανάληψης`{:class="block3control"}, μέσα σε ένα μπλοκ `για πάντα`{:class="block3control"}. Το μπλοκ `επανάληψης`{:class="block3control"} πρέπει να αντιστοιχεί στον αριθμό των καρέ από το GIF που έχει εισαχθεί.
 
 ```blocks3
 when flag clicked
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+Η κινούμενη εικόνα σας μπορεί να είναι λίγο γρήγορη, οπότε πρόσθεσε ένα μπλοκ `αναμονή`{:class="block3control"} για να το επιβραδύνει λίγο.
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+Ίσως επίσης θέλεις να αυξήσεις το μέγεθος της κινούμενης εικόνας και να την επανατοποθετήσεις στο κέντρο της σκηνής.
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+Είναι επίσης χρήσιμο να βεβαιωθείς ότι αρχίζεις πάντα την αναπαραγωγή της κινούμενης εικόνας από την πρώτη ενδυμασία.
 
 ```blocks3
 when flag clicked
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+Κάνε κλικ στην πράσινη σημαία για να παρακολουθήσεις το βίντεό σου να παίζει στη σκηνή.
 
 --- /task ---
 
