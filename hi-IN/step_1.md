@@ -1,10 +1,10 @@
-## Introduction
+## परिचय
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+इस प्रोजेक्ट में, आप Scratch प्लेटफॉर्म का उपयोग करके एक अनोखा ई-कार्ड बनाएंगे जिसे आप आपके मित्रों और परिवार को भेज सकते हैं।
 
-### What you will make
+### आप क्या बनाएँगे
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- ई-कार्ड देखने के लिए हरे झंडे पर क्लिक करें। <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: आपको किन चीजों की आवश्यकता होगी
 ---
-### Hardware
+### हार्डवेयर
 
-- A computer with a webcam and microphone
-- An internet connection
+- एक कंप्यूटर जिसमें वेब कैमरा और माइक्रोफोन हों
+- एक इंटरनेट कनेक्शन (internet connection)
 
-### Software
+### सॉफ्टवेयर
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 ([ऑनलाइन](http://rpf.io/scratchon) या [ऑफ़लाइन](http://rpf.io/scratchoff))
+- एक वेब ब्राउज़र (web browser)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- वीडियो को GIF में कैसे परिवर्तित(convert) करें
+- Scratch में GIF को कैसे एनिमेट करें
+- एनीमेशन में रिकॉर्डेड साउंड को कैसे जोड़ा जाए
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: शिक्षकों के लिए अतिरिक्त जानकारी
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"} का उपयोग करें।
 
 --- /collapse ---
