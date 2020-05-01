@@ -1,8 +1,8 @@
-## Add some sound
+## कुछ आवाज जोड़ें
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+अपने sprite के **Sounds** टैब पर क्लिक करें।
 
 ![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
 
@@ -10,7 +10,7 @@ Click on the **Sounds** tab for your sprite.
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+स्क्रीन के निचले बाएँ कोने में **Choose a Sound** बटन पर जाएं और एक नई ध्वनि रिकॉर्ड करने के लिए **Record** पर क्लिक करें।
 
 ![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
 
@@ -18,7 +18,7 @@ In the bottom left-hand corner of the screen, hover over the **Choose a Sound** 
 
 --- task ---
 
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
+आपको अपने वेब ब्राउज़र को अपने माइक्रोफ़ोन तक पहुंचने की अनुमति देनी पड़ सकती है। ऐसा करने के लिए, **Allow** पर क्लिक करें।
 
 ![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
 
@@ -26,7 +26,7 @@ You might have to allow your web browser to access your microphone. To do this, 
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+**Record** बटन पर क्लिक करें और अपना आवाज़ रेकॉर्ड कीजिए। जब आपने अपने ई-कार्ड के प्राप्तकर्ता (recipient) के लिए अपना संदेश पूरा कर लिया है, तो **Stop recording** पर क्लिक करें, फिर **Save** पर क्लिक करें।
 
 ![image showing the record dialogue box within Scratch](images/record.png)
 
@@ -34,7 +34,7 @@ Click the **Record** button to start recording your voice. When you have finishe
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+ध्वनि चलाने के लिए, आप `broadcast`{:class="block3control"} ब्लॉक का उपयोग कर सकते हैं जब एनिमेशन लूप शुरू होता है।
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+फिर, `when I receive`{:class="block3control"} ब्लॉक का उपयोग ध्वनि को शुरू करने के लिए प्रयोग करें।
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+आप ध्वनि को नियंत्रित करने के लिए `wait`{:class="block3control"} ब्लॉक का उपयोग कर सकते हैं।
 
 ```blocks3
 when I receive (message1 v)
