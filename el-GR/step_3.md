@@ -1,6 +1,6 @@
 ## Πρόσθεσε και ζωντάνεψε το GIF σου στο Scratch
 
---- task --
+--- task ---
 
 Επισκέψου την ιστοσελίδα [rpf.io/scratch-new](https://rpf.io/scratch-new) για να ανοίξεις ένα νέο έργο Scratch.
 
