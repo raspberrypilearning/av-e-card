@@ -1,19 +1,19 @@
 ---
-title: "An audiovisual e-card"
+title: "音声と映像がついた電子グリーティング・カード"
 hero_image: images/banner.png
-description: Create an audiovisual e-card with Scratch
+description: Scratchで音声と映像がついた電子グリーティング・カードをつくる
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-15"
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Record your video
+    title: 動画を録画する
   - 
-    title: Add your GIF
+    title: GIFを追加する
   - 
-    title: Add some sound
+    title: 音声を追加する
   - 
-    title: Share your e-card with friends and family
+    title: 電子グリーティング・カードを友だちや家族と共有する
