@@ -1,72 +1,72 @@
-## Add some sound
+## Afegeix algun so
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+Fes clic a la pestanya **Sons** del teu personatge.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![imatge que mostra les pestanyes de so seleccionades per al personatge](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+A la part inferior esquerra de la pantalla, passa per sobre el botó **Tria un so** i selecciona **Enregistra** per gravar un nou so.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![botó de sons que mostra la imatge seleccionada amb un so ressaltat](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+Potser hauràs de permetre que el teu navegador web accedeixi al teu micròfon. Per fer-ho, fes clic a **Permet**.
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![imatge que mostra l'avís del navegador web per habilitar l’accés al micròfon](images/allow-mic.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+Fes clic al botó **Enregistra** per començar a gravar la teva veu. Quan hagis acabat el teu missatge per al destinatari de la teva targeta electrònica, fes clic a **Atura la gravació** i, a continuació, fes clic a **Desa**.
+
+![imatge que mostra la caixa de diàleg d'enregistrar a Scratch](images/record.png)
+
+--- /task ---
+
+--- task ---
+
+Per reproduir el so, pots utilitzar un bloc `envia a tots`{:class="block3control"} quan s'inicia el bucle d'animació.
 
 ```blocks3
-when flag clicked
-switch costume to (ezgif v)
-set size to (150) %
-forever
-+broadcast (message1 v)
-repeat (35)
-next costume
+quan la bandera es cliqui
+canvia el vestit a (ezgif v)
+fixa la mida a (150) %
+per sempre
++envia a tots (missatge1 v)
+repeteix (35)
+següent vestit
 ```
 
 --- /task ---
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+Aleshores, utilitza un bloc `quan rebi`{:class="block3control"} per començar a reproduir el so.
 
 ```blocks3
-when I receive (message1 v)
-play sound (recording1 v) until done
+quan rebi (missatge1 v)
+toca el so (gravació1 v) fins que acabi
 ```
 
 --- /task ---
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+És possible que t'agradi fer servir un bloc `espera`{:class="block3control"} per controlar quan comença a reproduir-se el so.
 
 ```blocks3
-when I receive (message1 v)
-+wait (0.4) seconds
-play sound (recording1 v) until done
+quan rebi (missatge1 v)
++espera (0.4) segons
+toca el so (gravació1 v) fins que acabi
 ```
 
 --- /task ---
