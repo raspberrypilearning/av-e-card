@@ -63,7 +63,7 @@ title: Chrome OSでウェブカメラを使って動画を録画する
 
 ![Chrome OSで開いたビデオフォルダーを示す画像](images/videosfolder.png)
 
-爆発
+--- /collapse ---
 
 動画を作成したので、今度はGIFに変換する必要があります。 変換するには[rpf.io/gifにある変換サービス](https://rpf.io/gif){:target="_blank"}を使うのが一番かんたんです。
 
