@@ -1,32 +1,32 @@
-## Record your video
+## Запиши власне відео
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+Ти не зможеш додати записане відео у Скретч, але ти можеш імпортувати зображення в форматі GIF. Коли ти імпортуєш GIF як спрайт, Скретч його розбиває так, що кожен кадр GIF стає новим образом твого спрайта.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**Пам'ятай, що відео, яке ти створиш, буде загальнодоступним, тому переконайся, що в кадрі немає нічого, по чому можна було б виявити твоє ім'я або місцезнахоження, також в першу чергу запитай у батьків дозволу створювати і використовувати відео.**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+Поглянь на згорнуті нижче розділи, щоб дізнатися як записати кількасекундне відео за допомогою вебкамери свого комп'ютера і зберегти його на диску.
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: Запис відео з вебкамери у Windows
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- Натисни на меню **Пуск** і вибери програму **Камера**.
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![зображення, що показує меню Пуск із вибраною програмою Камера у Windows](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- Натисни кнопку **Зняти Відео**, щоб записати кількасекундне відео.
 
-![image showing camera app with record button](images/record-win.png)
+![зображення, що показує програму камери із кнопкою зйомки](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- Твоє відео має з'явитися в папці `Зображення\Фотографії з камери (Pictures\Camera Roll)`.
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![зображення, що показує зняте відео в папці фотографій з камери](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: Запис відео з вебкамери у macOS
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- Перейди в меню **Програми** і відкрий QuickTime Player.
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![зображення, що показує меню Програми в macOS із вибраним QuickTime player](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- Натисни **Файл**>**Новий відеозапис**, потім при запиті надай доступ до камери.
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![зображення, що показує запит доступу до камери](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- Коли закінчиш, то можеш зберегти або експортувати відео, і воно з'явиться на робочому столі.
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: Запис відео з вебкамери у Chrome OS
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- Клацни на кнопку запуску програм і знайди застосунок **Камера**.
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![зображення, що показує відкритий застосунок камери в Chrome OS](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- Вибери **Відео** справа, а потім натисни кнопку **Запис**.
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![зображення, що показує застосунок камери із натисненою кнопкою запису](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- Коли закінчиш, натисни знову кнопку **Запис**, і ти знайдеш свій файл у папці `Відео`.
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![зображення, що показує відкриту відео папку в Chrome OS](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+Тепер коли в тебе є відео, ти маєш перетворити його на GIF. Простий спосіб це зробити — використати [конвертер на rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+Спочатку завантаж своє відео: натисни кнопку **Вибрати файл**, вибери свій файл, а потім натистни кнопку **Upload video!**.
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![зображення, що показує інтерфейс завантаження ezgif.com](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+Для того, щоб прискорити роботу Скретч, ти маєш оптимізувати свій GIF. Для того щоб це зробити, постав галочу навпроти **Optimize**. Ти також можеш зменшити роздільну здатність.
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![зображення, що показує налаштування оптимізації на ezgif.com](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+Натисни на кнопку **Convert to GIF!**, а коли GIF буде створено, натисни кнопку **Save**, щоб його зберегти.
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![зображення кнопки конвертування (convert) на ezgif.com](images/convert_btn.png) ![зображення іконки збереження (save) на ezgif.com](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+Коли ти закінчиш, шукай GIF в папці `Завантаження`.
 
 --- /task ---
 
