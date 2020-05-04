@@ -1,26 +1,26 @@
-## Share your e-card with friends and family
+## شارك بطاقتك الإلكترونية مع الأصدقاء والعائلة
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+الآن بعد انشائك للبطاقتك الإلكترونية السمعية البصرية، فقد حان وقت مشاركتها مع أصدقائك وعائلتك.
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+تأكد من تسجيل الدخول إلى حسابك في برنامج Scratch، ثم انقر فوق زر **مشاركة **، للسماح للآخرين بعرض مشروعك.
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+عند مشاركة مشروعك، انقر فوق زر** شاهد صفحة المشروع**. قد يستغرق هذا بعض الوقت، ريثما يتم تحميل ملف GIF.
 
-![image showing Project Page button](images/projects-page.png)
+![الصورة تظهر صفحة المشروع](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+يمكنك الآن نسخ رابط مشروعك ومشاركته عبر البريد الإلكتروني أو من خلال شبكة التواصل الإجتماعية أو عبر منصة الرسائل.
 
-![image showing copy link button](images/copy-link.png)
+![الصورة تظهر نسخ الرابط](images/copy-link.png)
 
 --- /task ---
 
