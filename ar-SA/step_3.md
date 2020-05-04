@@ -4,7 +4,7 @@
 
 انتقل إلى[rpf.io/scratch-new](https://rpf.io/scratch-new) لفتح مشروع Scratch جديد.
 
----/task--
+--- /task ---
 
 --- task ---
 
