@@ -1,26 +1,26 @@
-## Share your e-card with friends and family
+## Поділися своєю електронною листівкою з друзями та родиною
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+Тепер, коли ти створив (-ла) свою аудіовізуальну електронну листівку, настав час поділитися нею із друзями та родиною.
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+Перевір, що ти увійшов в свій обліковий запис Скретч, далі натисни кнопку **Поділитись**, щоб дозволити іншим переглядати твій проєкт.
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+Після цього натисни на кнопку **Перегляд сторінки проєкту**. Це може зайняти певний час, тому що GIF має бути вивантажений.
 
-![image showing Project Page button](images/projects-page.png)
+![зображення, що показує кнопку сторінки проєкту](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+Ти можеш скопіювати посилання (Copy Link) на свій проєкт і поділитися ним через електронну пошту, соціальну мережу або платформу обміну повідомленнями.
 
-![image showing copy link button](images/copy-link.png)
+![зображення, що показує кнопку копіювання посилання (copy link)](images/copy-link.png)
 
 --- /task ---
 
