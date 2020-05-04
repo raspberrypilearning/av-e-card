@@ -1,48 +1,48 @@
-## Add and animate your GIF in Scratch
+## ScratchでGIFをアニメーションにする方法
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+[rpf.io/scratch-new](https://rpf.io/scratch-new)にアクセスして新しいScratchプロジェクトを開きます。
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+**ゴミ箱**アイコンを押して、もともとあるScratchのネコのスプライトを消します。
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![ゴミ箱アイコンがついたネコのスプライトを示す画像](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+次に、**スプライトを選ぶ**ボタンにマウスカーソルを合わせて、**スプライトをアップロード**を押して、新しいスプライトをアップロードします。
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![スプライトをアップロードが選択された状態でスプライトメニューオプションの選択を示す画像](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+ファイルブラウザからGIFを選んでアップロードします。
+
+![ファイルブラウザでGIFの選択を示す画像](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+新しいスプライトで**コスチューム**タグを押すと、GIFから生成されたすべてのフレームが見られるようになります。
+
+![Scratch内でそれぞれのコスチュームに変換されたGIFを示す画像](images/gif-costumes.png)
+
+次の作業で必要になるので、コスチュームが全部でいくつあるかメモしておきましょう。
+
+--- /task ---
+
+--- task ---
+
+GIFをすべて再生するには、`ずっと`{:class="block3control"}ブロックの中に`繰り返す`{:class="block3control"}ブロックを入れて使います。 `繰り返す`{:class="block3control"}ブロックに指定する数は、読み込んだGIFのフレーム数と同じする必要があります。
 
 ```blocks3
 when flag clicked
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+アニメーションが少し速いかもしれないので、少し遅くするために`待つ`{:class="block3control"}ブロックを入れます。
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+アニメーションの大きさを大きくして、ステージの真ん中に置きなおすこともできます。
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+アニメーションの再生が、いつも最初のコスチュームからはじまるようになると助かります。
 
 ```blocks3
 when flag clicked
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+緑色の旗を押して、ステージで再生される動画を見ましょう。
 
 --- /task ---
 
