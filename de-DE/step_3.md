@@ -10,7 +10,7 @@ Navigiere zu [rpf.io/scratch-new](https://rpf.io/scratch-new), um ein neues Scra
 
 Klicke auf das **Papierkorb**-Symbol, um die aktuelle Katzenfigur zu löschen.
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
+![das Bild zeigt die Katzenfigur mit dem Mülleimersymbol](images/delete-sprite.png)
 
 --- /task ---
 
@@ -18,7 +18,7 @@ Klicke auf das **Papierkorb**-Symbol, um die aktuelle Katzenfigur zu löschen.
 
 Bewege den Mauszeiger nun über die **Wähle ein Figur** Schaltfläche und klicke dann auf **Figur hochladen**, um eine neue Figur hochzuladen.
 
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![das Bild zeigt die Menüoption "Figur auswählen" mit ausgewählten "Figur hochladen"](images/upload-sprite.png)
 
 --- /task ---
 
@@ -26,7 +26,7 @@ Bewege den Mauszeiger nun über die **Wähle ein Figur** Schaltfläche und klick
 
 Wähle dein GIF im Dateibrowser aus und lade es hoch.
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
+![das Bild zeigt die Auswahl des GIFs im Dateibrowser](images/select-gif.png)
 
 --- /task ---
 
@@ -34,7 +34,7 @@ Wähle dein GIF im Dateibrowser aus und lade es hoch.
 
 Klicke auf den Reiter **Kostüme** für deine neue Figur und du solltest alle einzelnen Frames in deinem GIF sehen.
 
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
+![das Bild zeigt das GIF, das in Scratch in einzelne Kostüme umgewandelt wurde](images/gif-costumes.png)
 
 Notiere dir die Gesamtzahl der Kostüme, die du hast, da dies bei der nächsten Aufgabe wichtig sein wird.
 
@@ -58,11 +58,11 @@ Deine Animation ist möglicherweise etwas schnell, füge also einen `warte`{:cla
 
 
 ```blocks3
-when flag clicked
-forever
-repeat (35)
-+wait (0.04) seconds
-next costume
+Wenn die Flagge angeklickt wird
+wiederhole fortlaufend 
+wiederhole (35) mal
++warte (0.04) Sekunden
+wechsle zum nächsten Kostüm
 ```
 
 --- /task ---
@@ -72,11 +72,11 @@ next costume
 Du kannst die Animation auch vergrößern und in der Mitte der Bühne neu positionieren.
 
 ```blocks3
-when flag clicked
-+set size to (150) %
-forever
-repeat (35)
-next costume
+Wenn Flagge angeklickt wird 
++ setze Größe auf (150)%
+wiederhole fortlaufend
+wiederhole (35) mal
+wechsle zum nächsten Kostüm
 ```
 
 --- /task ---
@@ -86,12 +86,12 @@ next costume
 Es ist auch hilfreich sicherzustellen, dass du die Animation immer vom ersten Kostüm an abspielst.
 
 ```blocks3
-when flag clicked
-+switch costume to (ezgif v)
-set size to (150) %
-forever
-repeat (35)
-next costume
+Wenn Flagge angeklickt wird
+wechsle zu Kostüm (ezgif v)
+setze Größe auf (150) %
+wiederhole fortlaufend
+wiederhole (35) mal
+wechsle zum nächsten Kostüm
 ```
 
 --- /task ---
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+Klicke auf die grüne Flagge, um zu sehen, wie dein Video auf der Bühne abgespielt wird.
 
 --- /task ---
 
