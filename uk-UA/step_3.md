@@ -1,48 +1,48 @@
-## Add and animate your GIF in Scratch
+## Додай в Скретч свій GIF та анімуй його
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+Перейди на [rpf.io/scratch-new](https://rpf.io/scratch-new) і відкрий новий проєкт Скретч.
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+Натисни на іконку з **кошиком**, щоб видалити стандартний у Скретч спрайт із котом.
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![забраження зі спрайтом кота та значком кошика](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+Тепер наведи курсор на кнопку **Обрати спрайт**, далі натисни на **Вивантажити спрайт**, щоб імпортувати новий спрайт.
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![зображення меню вибору спрайта з виділеним пунктом вивантаження спрайта](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+Обери свій GIF у файловому браузері і вивантаж його.
+
+![зображення, що показує вибір GIF у файловому браузері](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+Натисни на вкладку **Образи** свого нового спрайта, там ти маєш побачити всі кадри зі свого GIF.
+
+![зображення, що показує GIF, конвертований в набір образів всередині Скретч](images/gif-costumes.png)
+
+Зверни увагу на загальну кількість образів, які ти маєш, бо це буде важливо на наступному кроці.
+
+--- /task ---
+
+--- task ---
+
+Для відтворення GIF ти можеш використовувати блок `повторити` {:class="block3control"} всередині блока `завжди`{:class="block3control"}. Блок `повторити`{:class="block3control"} має відповідати кількості кадрів у імпортованому GIF.
 
 ```blocks3
 when flag clicked
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+Твоя анімація може бути занадто швидкою, тому додай блок `чекати`{:class="block3control"}, щоб трохи сповільнити її.
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+Можливо, ти ще захочеш збільшити розмір анімації і розмістити її в середині Сцени.
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+Також важливо переконатися, що ти завжди запускаєш анімацію із першого образа.
 
 ```blocks3
 when flag clicked
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+Клацни на зелений прапорець, щоб побачити, як твоє відео відтворюється на Сцені.
 
 --- /task ---
 
