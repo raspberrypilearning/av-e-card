@@ -1,40 +1,40 @@
-## Add some sound
+## 音声を追加する
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+スプライトの**音**タブを押します。
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![スプライトで選択された音タブを示す画像](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+画面の左下隅にある**音を選ぶ**ボタンにマウスカーソルを合わせ、**録音する**を選んで新しい音声を録音します。
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![「音声を録音する」が強調表示された、音ボタンが選択された状態を示す画像](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+ウェブブラウザがマイクにアクセスできるように許可する必要があるかもしれません。 マイクを使えるようにするには、**許可**を押します。
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![マイクの使用を許可するウェブブラウザのダイアログを示す画像](images/allow-mic.png)
+
+タスク
+
+--- task ---
+
+**録音する**ボタンを押して、音声の録音をはじめましょう。 電子グリーティング・カードを受けとる人へのメッセージが完了したら、**録画をやめる**を押し、**保存**を押します。
+
+![Scratch内の録音ダイアログボックスを示す画像](images/record.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+音声を再生するには、アニメーションの繰り返しが始まるところで`送る`{:class="block3control"}ブロックを使います。
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+そして、`受け取ったとき`{:class="block3control"}ブロックを使って音声の再生を始めます。
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+`待つ`{:class="block3control"}ブロックを使って、音声の再生をいつ始めるかを変えることもできます。
 
 ```blocks3
 when I receive (message1 v)
