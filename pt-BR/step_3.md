@@ -1,97 +1,99 @@
-## Add and animate your GIF in Scratch
+## Adicione e anime seu GIF no Scratch
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+Navegue para [rpf.io/scratch-new](https://rpf.io/scratch-new) para abrir um novo projeto do Scratch.
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+Clique na **lixeira** para remover o ator padrão do Scratch.
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![imagem mostrando o gato sprite com o ícone da lixeira](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+Agora, passe o mouse sobre o botão **Selecione um Ator** e clique em **Enviar Ator** para carregar um novo ator.
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![imagem mostrando a opção de menu escolher um sprite com o upload de um sprite selecionado](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+Selecione seu GIF no na pasta de arquivos e faça o carregamento.
+
+![imagem mostrando a seleção de GIF no navegador de arquivos](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+Clique na guia **Fantasias** para o seu novo ator e você verá todos os quadros individuais do seu GIF.
+
+![imagem mostrando o GIF convertido em trajes individuais no Scratch](images/gif-costumes.png)
+
+Anote o número total de fantasias que você tem, pois isso será importante na próxima tarefa.
+
+--- /task ---
+
+--- task ---
+
+Para reproduzir o GIF, você pode usar um bloco `repita`{:class="block3control"}, dentro de um bloco `sempre`{:class="block3control"}. O bloco `repita`{:class="block3control"} deve corresponder ao número de quadros do GIF importado.
 
 ```blocks3
-when flag clicked
-forever
-repeat (35)
-next costume
+quando bandeira verde for clicado
+sempre
+repita (35) vezes
+próxima fantasia
 ```
 --- /task ---
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+Sua animação pode estar um pouco rápida, então adicione um bloco `espere`{:class="block3control"} para desacelerar um pouco.
 
 
 ```blocks3
-when flag clicked
-forever
-repeat (35)
-+wait (0.04) seconds
-next costume
-```
-
---- /task ---
-
---- task ---
-
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
-
-```blocks3
-when flag clicked
-+set size to (150) %
-forever
-repeat (35)
-next costume
+quando bandeira verde for clicado
+sempre
+repita (35) vezes
++ espere (0.04) seg
+próxima fantasia
 ```
 
 --- /task ---
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+Você também pode aumentar o tamanho da animação e reposicioná-la no centro do palco.
 
 ```blocks3
-when flag clicked
-+switch costume to (ezgif v)
-set size to (150) %
-forever
-repeat (35)
-next costume
+quando bandeira verde for clicado
++ defina o tamanho como (150) %
+sempre
+repita (35) vezes
+espere (0.04) seg
+próxima fantasia
+```
+
+--- /task ---
+
+--- task ---
+
+Também é importante garantir que você sempre comece a reproduzir a animação da primeira fantasia.
+
+```blocks3
+quando bandeira verde for clicado
++ mude para a fantasia (egif v)
+defina o tamanho como (150) %
+sempre
+repita (35) vezes
+espere (0.04) seg
+próxima fantasia
 ```
 
 --- /task ---
@@ -99,7 +101,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+Clique na bandeira verde para assistir ao vídeo sendo reproduzido no palco.
 
 --- /task ---
 
