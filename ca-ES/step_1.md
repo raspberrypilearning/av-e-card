@@ -1,10 +1,10 @@
-## Introduction
+## Introducció
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+En aquest projecte, faràs servir la plataforma Scratch per fer una targeta audiovisual electrònica que podràs enviar a amics i familiars.
 
-### What you will make
+### Què faràs
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Fes clic a la bandera verda per veure la targeta electrònica. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+títol: Què necessitaràs
 ---
-### Hardware
+### Maquinari
 
-- A computer with a webcam and microphone
-- An internet connection
+- Un ordinador amb càmera web i micròfon
+- Una connexió a Internet
 
-### Software
+### Programari
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 ([en línia](http://rpf.io/scratchon) o [fora de línia](http://rpf.io/scratchoff))
+- Un navegador web
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+títol: Què aprendràs
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- Com convertir un vídeo a un GIF
+- Com animar un GIF a Scratch
+- Com afegir so gravat a una animació
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+títol: Informació addicional per educadors
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
 --- /collapse ---
