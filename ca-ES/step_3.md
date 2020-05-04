@@ -1,97 +1,97 @@
-## Add and animate your GIF in Scratch
+## Com animar un GIF a Scratch
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+Ves a [rpf.io/scratch-new](https://rpf.io/scratch-new) per obrir un nou projecte a Scratch.
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+Fes clic a la icona **Paperera** per esborrar el personatge del gat.
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![imatge que mostra el personatge gat amb icona de paperera](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+Ara, passa per sobre del botó **Tria un personatge** i després fes clic a **Puja un personatge** per carregar un de nou.
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![imatge que mostra al menú de triar un personatge amb l'opció de la càrrega de personatge seleccionada](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+Selecciona el teu GIF al navegador de fitxers i, a continuació, carrega'l.
+
+![imatge que mostra la selecció de GIF al navegador d'arxius](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+Fes clic a la pestanya **Vestits** pel teu nou personatge i hauries de veure tots els fotogrames individuals del teu GIF.
+
+![imatge que mostra el GIF convertit en vestits individuals a Scratch](images/gif-costumes.png)
+
+Anota el nombre total de vestits que tens, ja que això serà important en la següent tasca.
+
+--- /task ---
+
+--- task ---
+
+Per reproduir el GIF, pots utilitzar un bloc `repeteix` {:class="block3control"}, dins d'un bloc `per sempre`{:class="block3control"}. El bloc `repeteix`{:class="block3control"} hauria de coincidir amb el nombre de fotogrames del GIF importat.
 
 ```blocks3
-when flag clicked
-forever
-repeat (35)
-next costume
+quan la bandera es cliqui
+per sempre
+repeteix (35)
+següent vestit
 ```
 --- /task ---
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+La teva animació pot ser una mica ràpida, de manera que afegeix un bloc `espera`{:class="block3control"} per alentir-lo una mica.
 
 
 ```blocks3
-when flag clicked
-forever
-repeat (35)
-+wait (0.04) seconds
-next costume
-```
-
---- /task ---
-
---- task ---
-
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
-
-```blocks3
-when flag clicked
-+set size to (150) %
-forever
-repeat (35)
-next costume
+quan la bandera es cliqui
+per sempre
+repeteix (35)
++espera (0.04) segons
+següent vestit
 ```
 
 --- /task ---
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+També potser t'agradaria augmentar la mida de l’animació i reposicionar-la al centre de l’Escenari.
 
 ```blocks3
-when flag clicked
-+switch costume to (ezgif v)
-set size to (150) %
-forever
-repeat (35)
-next costume
+quan la bandera es cliqui
++fixa la mida a (150) %
+per sempre
+repeteix (35)
+següent vestit
+```
+
+--- /task ---
+
+--- task ---
+
+També és útil assegurar-te que sempre començaràs a reproduir l'animació des del primer vestit.
+
+```blocks3
+quan la bandera es cliqui
++canvia el vestit a (ezgif v)
+fixa la mida a (150) %
+per sempre
+repeteix (35)
+següent vestit
 ```
 
 --- /task ---
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+Fes clic a la bandera verda per veure el teu vídeo reproduït a l'Escenari.
 
 --- /task ---
 
