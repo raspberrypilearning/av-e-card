@@ -1,10 +1,10 @@
-## Introduction
+## المقدمة
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+في هذا المشروع، ستستخدم برنامج Scratch لإنشاء بطاقة إلكترونية سمعية بصرية والتي يمكنك إرسالها إلى الأصدقاء والعائلة.
 
-### What you will make
+### ما الذي سوف تصنعه
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+انقر على العلم الأخضر لرؤية البطاقة إلكترونية. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: ما الذي سوف تحتاج إليه
 ---
-### Hardware
+### الأجهزة
 
-- A computer with a webcam and microphone
-- An internet connection
+- جهاز كمبيوتر مزود بكاميرا ويب وميكروفون
+- إمكانية الإتصال بالإنترنت
 
-### Software
+### البرامج
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- برنامج Scratch 3 (سواء كان [متصل بالإنترنت](http://rpf.io/scratchon) أو [دون إتصال بالإنترنت](http://rpf.io/scratchoff))
+- متصفح ويب
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: ما الذي سوف تتعلمه
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- كيفية تحويل فيديو إلى ملف GIF
+- كيفية جعل ملف GIF في برنامج Scratch متحركاً
+- كيفية إضافة صوت مسجل إلى الرسوم المتحركة
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: معلومات إضافية للمعلمين
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فالرجاء استخدام الإصدار [الصديق للبيئة](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
 --- /collapse ---
