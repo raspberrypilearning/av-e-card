@@ -1,32 +1,32 @@
-## Record your video
+## Grava el teu vídeo
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+No pots afegir vídeo gravat a Scratch, però pots importar GIFs. Quan importis un GIF com a personatge, Scratch separa el GIF i cada fotograma del GIF es converteix en un nou vestit per al personatge nou.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**Recorda que el vídeo que crearàs serà públic, així que assegura't que no tinguis res que pugui identificar el teu nom o ubicació a la captura, obté primer el permís dels teus pares per crear i utilitzar el vídeo.**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+Consulta les seccions desplegades a continuació per ajudar-te a gravar uns segons de vídeo amb la càmera web de l’ordinador i, a continuació, guarda el vídeo a la unitat.
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+títol: Gravació de vídeo amb càmera web a Windows
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- Fes clic al menú **Inici** i selecciona el botó de l'aplicació **Càmera**.
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![imatge que mostra el menú d'inici amb l'aplicació de càmera seleccionada a Windows](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- Fes clic al botó d'**Enregistrar** per gravar uns segons de vídeo.
 
-![image showing camera app with record button](images/record-win.png)
+![imatge que mostra l'aplicació de càmera amb botó d'enregistrar](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- El teu vídeo ha d'aparèixer a la teva carpeta `Imatges\Carret de càmera`.
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![imatge que mostra el vídeo capturat a la carpeta de carret de la càmera](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+títol: Gravació de vídeo amb càmera web a macOS
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- Vés al teu menú **Aplicacions** i obre el reproductor QuickTime.
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![imatge que mostra el menú d'aplicacions en macOS amb el reproductor QuickTime seleccionat](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- Fes clic a **Arxiu** > **Nova gravació de vídeo**, llavors permet l'accés a la càmera quan se't demani.
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![imatge que mostra l'avís per permetre l'accés a la càmera](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- Quan hagis acabat, pots desar o exportar el vídeo i hauria d'aparèixer a l'escriptori.
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+títol: Gravació de vídeo amb càmera web a Chrome OS
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- Fes clic al llançador d’aplicacions i cerca la aplicació de la **Càmera**.
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![imatge que mostra l'aplicació de la càmera que s'està obrint al Chrome OS](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- Selecciona **Vídeo** al costat dret i, a continuació, fes clic al botó d'**Enregistrar**.
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![imatge que mostra l'aplicació de càmera amb botó d'enregistrar premut](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- Quan hagis acabat, fes clic al botó d'**Enregistrar** de nou i trobaràs el fitxer a la carpeta `Vídeos`.
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![imatge que mostra la carpeta de vídeo oberta a Chrome OS](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+Ara que tens el vídeo, has de convertir-lo en GIF. Una manera fàcil de fer-ho és fer servir [el convertidor a rpf.io/gif](https://rpf.io/gif){:target="_ blank"}.
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+Primer, penja el teu vídeo: fes clic a **Tria un fitxer**, fes clic al fitxer i després fes clic al botó **Upload video!**.
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![imatge que mostra la interfície de càrrega de ezgif.com](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+Per fer les coses una mica més ràpides a Scratch, hauríes d’optimitzar el GIF. Per fer-ho, selecciona la casella **Optimize**. També potser t'agradaria reduir la resolució.
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![Imatge que mostra opcions d’optimització a ezgif.com](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+Fes clic a **Convert to GIF!** i quan s'hagi creat el GIF, fes clic a la icona **Save** per desar el GIF.
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![imatge del botó de conversió a ezgif.com](images/convert_btn.png) ![imatge del botó de desar a ezgif.com](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+Quan hagis acabat, comprova que hi ha el GIF a la teva carpeta de `Baixades`.
 
 --- /task ---
 
