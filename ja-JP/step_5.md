@@ -1,28 +1,28 @@
-## Share your e-card with friends and family
+## 電子グリーティング・カードを友だちや家族と共有する
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+さて、音声と映像がついた電子グリーティング・カードをつくったので、いよいよ友だちや家族と共有するときが来ました。
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+Scratchにログインしていることを確認し、**共有する**ボタンを押して、プロジェクトが他の人から見られるようにします。
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+プロジェクトが共有されたら、**プロジェクトページを見る**ボタンを押します。 GIFをアップロードする必要があるので、しばらく時間がかかる場合があります。
 
-![image showing Project Page button](images/projects-page.png)
+![プロジェクトページボタンを示す画像](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+ここでプロジェクトのリンクをコピーして、メールやソーシャルネットワーク、またはメッセージング・プラットフォームで共有できます。
 
-![image showing copy link button](images/copy-link.png)
+![リンクをコピーするボタンを示す画像](images/copy-link.png)
 
---- /task ---
+タスク
 
 
 
