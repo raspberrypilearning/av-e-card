@@ -1,6 +1,6 @@
 ## Einleitung
 
-In diesem Projekt verwendest du die Scratch-Plattform, um eine audiovisuelle E-Card zu erstellen, die du an Freunde und Familie senden kannst.
+In diesem Projekt verwendest du die Scratch-Plattform, um eine audiovisuelle E-Card (elektronische Karte) zu erstellen, die du an Freunde und Familie senden kannst.
 
 ### Was du machen wirst
 
