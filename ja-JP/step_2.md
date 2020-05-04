@@ -1,32 +1,32 @@
-## Record your video
+## 動画を録画する
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+Scratchに録画した動画をいれることはできませんが、GIFを取り込むことはできます。 GIFをスプライトとして取り込むと、ScratchがそのGIFを分割し、GIFの各フレームが新しいスプライトに対する新しいコスチュームになります。
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**作成しようとしている動画は公開されることに注意してください。あなたの名前や映っている場所が特定できるものがないことを確認し、まずはお父さん・お母さんに動画を作って使っていいか許可を得てください。**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+下の折りたたまれた部分を見て、コンピューターのウェブカメラを使って数秒の動画を録画し、コンピューターに保存します。
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: Windowsでウェブカメラを使って動画を録画する
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- **スタート**メニューをクリックして**カメラ**アプリを選びます。
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![Windowsでカメラアプリを選んだスタートメニューを示す画像](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- **ビデオの撮影**ボタンを押して数秒の動画を撮影しましょう。
 
-![image showing camera app with record button](images/record-win.png)
+![録画ボタンがあるカメラアプリを示す画像](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- 動画は`ピクチャ\カメラ ロール`フォルダーに保存されます。
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![カメラロールフォルダに保存した動画を示す画像](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: macOSでウェブカメラを使って動画を録画する
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- **アプリケーション**メニューからQuickTime Playerを開きます。
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![macOSでQuickTime Playerを選んだアプリのメニューを示す画像](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- **ファイル** > **新規ムービー収録**を押します。カメラへのアクセスを求めるダイアログが表示された場合は許可してください。
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![カメラへのアクセスを許可するダイアログを示す画像](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- 録画が完了したら、動画を保存もしくは書き出すことができます。その動画はデスクトップに置かれます。
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: Chrome OSでウェブカメラを使って動画を録画する
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- アプリケーションラウンチャーを押し、**カメラ**アプリを検索します。
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![Chrome OSで開いているカメラアプリを示す画像](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- 右側にある**ビデオ**を選び、**録画を開始**ボタンを押します。
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![録画が押されたカメラアプリを示す画像](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- 録画が完了したら、もう一度**録画を開始**ボタンを押します。`ビデオ`フォルダにファイルが置かれます。
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![Chrome OSで開いたビデオフォルダーを示す画像](images/videosfolder.png)
 
---- /collapse ---
+爆発
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+動画を作成したので、今度はGIFに変換する必要があります。 変換するには[rpf.io/gifにある変換サービス](https://rpf.io/gif){:target="_blank"}を使うのが一番かんたんです。
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+まず，動画をアップロードします：**ファイルを選択**ボタンを押し、ファイルを選んで**Upload video!**（動画をアップロード！）ボタンを押します。
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![ezgif.comのアップロード画面を示す画像](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+Scratchでの処理をちょっと速くするために、GIFを最適化（さいてきか）する必要があります。 最適化（さいてきか）するには、**Optimize**（最適化（さいてきか）する）チェックボックスにチェックをつけます。 画像の解像度（かいぞうど）を下げるのもよいかもしれません。
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![ezgif.comの最適化（さいてきか）オプションを示す画像](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+**Convert to GIF!**（GIFに変換する！）ボタンを押します。GIFが生成されたら、**Save**アイコンを押してGIFを保存します。
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![ezgif.comの変換ボタンを示す画像](images/convert_btn.png) ![ezgif.comの保存アイコンの画像](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+完了したら、`ダウンロード`フォルダーにGIFがあるか確認します。
 
 --- /task ---
 
