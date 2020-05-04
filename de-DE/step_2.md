@@ -18,7 +18,7 @@ Titel: Aufnahme von Webcam-Videos unter Windows
 ---
 - Klicke auf das **Start** Menü und wähle die **Kamera** App.
 
-![das Bild zeigt das Startmenü mit der Kamera-App ausgewählt in Windows](images/camera-app.png)
+![das Bild zeigt das Startmenü mit der ausgewählten Kamera-App Windows](images/camera-app.png)
 
 - Klicke auf die **Video aufnehmen** Taste, um einige Sekunden des Videos aufzunehmen.
 
