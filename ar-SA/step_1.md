@@ -3,7 +3,7 @@
 في هذا المشروع، ستستخدم برنامج Scratch لإنشاء بطاقة إلكترونية سمعية بصرية والتي يمكنك إرسالها إلى الأصدقاء والعائلة.
 
 ### ما الذي سوف تصنعه
-
+--- no-print ---
 انقر على العلم الأخضر لرؤية البطاقة إلكترونية. 
 <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 

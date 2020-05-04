@@ -45,7 +45,7 @@ Anota el nombre total de vestits que tens, ja que això serà important en la se
 Per reproduir el GIF, pots utilitzar un bloc `repeteix`{:class="block3control"}, dins d'un bloc `per sempre`{:class="block3control"}. El bloc `repeteix`{:class="block3control"} hauria de coincidir amb el nombre de fotogrames del GIF importat.
 
 ```blocks3
-quan la bandera es cliqui
+when green flag clicked
 per sempre
 repeteix (35)
 següent vestit
@@ -58,7 +58,7 @@ La teva animació pot ser una mica ràpida, de manera que afegeix un bloc `esper
 
 
 ```blocks3
-quan la bandera es cliqui
+when green flag clicked
 per sempre
 repeteix (35)
 +espera (0.04) segons
@@ -72,7 +72,7 @@ següent vestit
 També potser t'agradaria augmentar la mida de l’animació i reposicionar-la al centre de l’Escenari.
 
 ```blocks3
-quan la bandera es cliqui
+when green flag clicked
 +fixa la mida a (150) %
 per sempre
 repeteix (35)
@@ -86,7 +86,7 @@ següent vestit
 També és útil assegurar-te que sempre començaràs a reproduir l'animació des del primer vestit.
 
 ```blocks3
-quan la bandera es cliqui
+when green flag clicked
 +canvia el vestit a (ezgif v)
 fixa la mida a (150) %
 per sempre

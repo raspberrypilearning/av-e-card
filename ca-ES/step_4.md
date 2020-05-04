@@ -37,7 +37,7 @@ Fes clic al botó **Enregistra** per començar a gravar la teva veu. Quan hagis 
 Per reproduir el so, pots utilitzar un bloc `envia a tots`{:class="block3control"} quan s'inicia el bucle d'animació.
 
 ```blocks3
-quan la bandera es cliqui
+when green flag clicked
 canvia el vestit a (ezgif v)
 fixa la mida a (150) %
 per sempre
