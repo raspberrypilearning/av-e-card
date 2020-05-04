@@ -1,10 +1,10 @@
-## Introduction
+## はじめに
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+このプロジェクトでは、Scratchプラットフォームをつかって友だちや家族に送る音声と映像がついた電子グリーティング・カードをつくります。
 
-### What you will make
+### 作るもの
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- 電子グリーティング・カードを見るには緑色の旗を押します。 <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要 (ひつよう) なもの
 ---
-### Hardware
+### ハードウェア
 
-- A computer with a webcam and microphone
-- An internet connection
+- ウェブカメラとマイクがついているコンピューター
+- インターネットにつながる環境（かんきょう）
 
-### Software
+### ソフトウェア
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 ([オンライン](http://rpf.io/scratchon)または[オフライン](http://rpf.io/scratchoff))
+- ウェブブラウザ
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 学ぶこと
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- 動画をGIFに変換（へんかん）する方法
+- ScratchでGIFをアニメーションにする方法
+- アニメーションに録音した音声をいれる方法
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 指導者向けの追加情報
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_ blank"}を使用してください。
 
 --- /collapse ---
