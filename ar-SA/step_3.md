@@ -1,48 +1,48 @@
-## Add and animate your GIF in Scratch
+## إضافة وتحريك ملف GIF الخاص بك ببرنامج Scratch
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+انتقل إلى[ rpf.io/scratch-new ](https://rpf.io/scratch-new) لفتح مشروع Scratch جديد.
+
+---/task--
+
+--- task ---
+
+انقر على رمز **سلة المهملات** لحذف كائن القط.
+
+![الصورة تظهر كائن القط مع رمز سلة المهملات](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+الآن، مرر مؤشر الماوس فوق الزر ** اختيار كائن**، ثم انقر فوق ** تحميل كائن** لتحميل كائن جديد.
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![الصورة تظهر قائمة اختيار كائن مع تحديد، تحميل الكائن](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+حدد ملف GIF الخاص بك من متصفح الملفات، ثم قم بتحميله.
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![الصورة توضح اختيار ملف GIF في متصفح الملفات](images/select-gif.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+انقر على قائمة** المظاهر **لكائنك الجديدة وستشاهد جميع المظاهر الفردية الموجودة في ملف GIF.
+
+![الصورة توضح ملف GIF الذي تم تحويله إلى مظاهر فردية داخل Scratch](images/gif-costumes.png)
+
+دوّن إجمالي عدد المظاهر التي لديك، لأن هذا سيكون مهماً في المهمة التالية.
+
+--- /task ---
+
+--- task ---
+
+لتشغيل ملف GIF، يمكنك استخدام كتلة ` كرر ` {: class = "block3control"}، داخل كتلة ` كرر بإستمرار ` {: class = "block3control"}. عدد التكرارات في كتلة `كرر ` يجب أن يتطابق {: class = "block3control"} مع عدد المظاهر الموجودة في ملف GIF الذي تم استيراده.
 
 ```blocks3
 when flag clicked
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+قد تكون الرسوم المتحركة سريعة بعض الشيء، لذا أضف كتلة ` انتظر ` {: class = "block3control"} لإبطائها قليلاً.
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+قد ترغب أيضاً في زيادة حجم الرسوم المتحركة وإعادة وضعها في وسط المنصة.
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+من المفيد أيضًا التأكد من بدء تشغيل الرسوم المتحركة من المظهر الأول.
 
 ```blocks3
 when flag clicked
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+انقر على العلم الأخضر لمشاهدة الفيديو الذي يتم تشغيله على المنصة.
 
 --- /task ---
 
