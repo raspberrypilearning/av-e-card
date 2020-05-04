@@ -1,32 +1,32 @@
-## Record your video
+## سجل الفيديو الخاص بك
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+لا يمكنك إضافة فيديو مسجل إلى Scratch، ولكن يمكنك استيراد ملفات من نوع GIF. عندما تقوم باستيراد ملف GIF على شكل كائن، يقوم Scratch بتقسيم ملف GIF، وتصبح كل صورة GIF مظهراً جديداً للكائن الجديد.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**تذكر أن الفيديو الذي ستقوم بإنشائه سيكون متاحاً للجميع، لذا تأكد من عدم وجود أي شيء يمكن أن يدل على إسمك أو موقعك في اللقطة، ويجب عليك أولاً الحصول على إذن من والديك لإنشاء الفيديو واستخدامه.**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+انظر إلى الأقسام المصغرة أدناه لمساعدتك في تسجيل بضع ثوان من الفيديو باستخدام كاميرا الويب الخاصة بالكمبيوتر، ثم احفظ الفيديو على الكومبيوتر.
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: تسجيل فيديو بواسطة برنامج كاميرا الويب في Windows
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- انقر فوق قائمة** ابدأ ** واختر تطبيق **الكاميرا**.
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![صورة تظهر قائمة البدء مع اختيار تطبيق الكاميرا في Windows](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- انقر فوق زر**تسجيل** لتسجيل بضع ثوان من الفيديو.
 
-![image showing camera app with record button](images/record-win.png)
+![صورة تظهر تطبيق الكاميرا مع زر التسجيل](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- يجب أن يظهر الفيديو الخاص بك في مجلد ` الصور/الكاميرا `.
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![الصورة تظهر الفيديو المسجل في مجلد الكاميرا](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: تسجيل فيديو بواسطة برنامج كاميرا الويب في نظام macOS
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- انتقل إلى قائمة **التطبيقات** الخاصة بك وافتح QuickTime Player.
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![الصورة تظهر قائمة التطبيقات على نظام macOS مع تحديد مشغل QuickTime](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- انقر فوق **ملف ** > ** تسجيل فيلم جديد**، ثم اسمح بالوصول إلى الكاميرا عند المطالبة بذلك.
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![الصورة تظهر موجه للسماح بالوصول إلى الكاميرا](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- عند الانتهاء، يمكنك حفظ الفيديو الخاص بك، ويجب أن يظهر على سطح المكتب.
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: تسجيل فيديو بواسطة برنامج كاميرا الويب في Chrome OS
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- انقر فوق مشغل التطبيق الخاص بك وابحث عن تطبيق **الكاميرا**.
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![الصورة تظهر تطبيق الكاميرا قيد الفتح على نظام التشغيل Chrome](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- حدد ** فيديو ** على الجانب الأيمن، ثم انقر فوق زر** تسجيل**.
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![الصورة تظهر تطبيق الكاميرا مع زر التسجيل](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- عند الانتهاء، انقر فوق زر** التسجل ** مرة أخرى، وستجد ملفك في مجلد ` مقاطع الفيديو`.
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![الصورة تظهر مجلد الفيديو مفتوح على نظام تشغيل Chrome](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+الآن أصبح لديك الفيديو، سوف تحتاج لتحويله إلى ملف GIF. الطريقة السهلة للقيام بذلك وهي استخدام الرابط التالي[ rpf.io/gif ](https://rpf.io/gif) {: target = "_ blank"}.
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+أولاً، قم بتحميل الفيديو الخاص بك: انقر فوق زر ** استعراض **، انقر فوق ملفك، ثم انقر فوق زر ** تحميل**.
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![الصورة تظهر واجهة تحميل ezgif.com](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+لجعل الأشياء أسرع قليلاً في برنامج Scratch، يجب عليك تحسين ملف GIF. للقيام بذلك، حدد خانة الاختيار** تحسين**. ربما ترغب أيضاً في تقليل الدقة.
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![الصورة تظهر خيارات تحسين ملف GIF بواسطة ezgif.com](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+انقر فوق زر **تحويل ** وعند إنشاء ملف GIF، انقر فوق أيقونة ** حفظ ** لحفظ ملف GIF الخاص بك.
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![الصورة تظهر زر التحويل بواسطة ezgif.com](images/convert_btn.png) ![الصورة تظهر أيقونة زر حفظ على ezgif.com](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+عند الإنتهاء، تأكد من وجود ملف GIF في مجلد ` التنزيلات`.
 
 --- /task ---
 
