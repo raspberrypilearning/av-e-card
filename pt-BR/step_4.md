@@ -38,20 +38,19 @@ Para reproduzir o som, você pode usar um bloco `transmita`{:class="block3contro
 
 ```blocks3
 when flag clicked
-mude para a fantasia (ezgif v)
+switch costume to (ezgif v)
 set size to (150) %
-sempre
-+ transmita (mensagem1 v)
-repita (35) vezes
-espere (0.04) seg
-próxima fantasia
+forever
++broadcast (mensagem1 v)
+repeat (35)
+next costume
 ```
 
 --- /task ---
 
 --- task ---
 
-Em seguida, use o bloco `quando eu receber/0>{:class="block3control"} para começar a tocar o som.</p>
+Em seguida, use o bloco `quando eu receber`{:class="block3control"} para começar a tocar o som.
 
 ```blocks3
 quando eu receber (mensagem1 v)

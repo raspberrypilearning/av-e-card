@@ -76,7 +76,6 @@ when flag clicked
 + set size to (150) %
 sempre
 repita (35) vezes
-espere (0.04) seg
 próxima fantasia
 ```
 
@@ -92,7 +91,6 @@ when flag clicked
 set size to (150) %
 sempre
 repita (35) vezes
-espere (0.04) seg
 próxima fantasia
 ```
 
