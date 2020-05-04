@@ -1,72 +1,72 @@
-## Add some sound
+## Adicione um som
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+Clique na aba **Sons**.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![imagem mostrando as guias de sons selecionadas para o sprite](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+No canto inferior esquerdo da tela, passe o mouse sobre o botão **Selecionar um Som** e selecione **Gravar** para gravar um novo som.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![imagem mostrando o botão de sons selecionado com gravar um som destacado](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+Pode ser necessário permitir que seu navegador da web acesse seu microfone. Para fazer isso, clique em **Permitir** .
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![imagem mostrando o prompt do navegador da web para ativar o acesso ao microfone](images/allow-mic.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+Clique no botão **Gravar** para começar a gravar sua voz. Quando você terminar sua mensagem para o destinatário do seu cartão eletrônico, clique em **Parar a gravação** e clique em **Salvar** .
+
+![imagem mostrando a caixa de diálogo de gravação no Scratch](images/record.png)
+
+--- /task ---
+
+--- task ---
+
+Para reproduzir o som, você pode usar um bloco `transmita`{:class="block3control"} quando o laço de animação iniciar.
 
 ```blocks3
-when flag clicked
-switch costume to (ezgif v)
-set size to (150) %
-forever
-+broadcast (message1 v)
-repeat (35)
-next costume
+quando bandeira verde for clicado
+mude para a fantasia (ezgif v)
+defina o tamanho como (150) %
+sempre
++ transmita (mensagem1 v)
+repita (35) vezes
+espere (0.04) seg
+próxima fantasia
 ```
 
 --- /task ---
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+Em seguida, use o bloco `quando eu receber/0>{:class="block3control"} para começar a tocar o som.</p>
 
-```blocks3
-when I receive (message1 v)
-play sound (recording1 v) until done
-```
+<pre><code class="blocks3">quando eu receber (mensagem1 v)
+toque o som (gravacao1 v) até o fim
+`</pre>
 
 --- /task ---
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+Você pode usar um bloco `espere () seg`{:class="block3control"} para controlar quando o som começa a ser reproduzido.
 
 ```blocks3
-when I receive (message1 v)
-+wait (0.4) seconds
-play sound (recording1 v) until done
+quando eu receber (mensagem1 v)
++ espere (0.4) seg
+toque o som (gravacao1 v) até o fim
 ```
 
 --- /task ---
