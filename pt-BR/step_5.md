@@ -1,26 +1,26 @@
-## Share your e-card with friends and family
+## Compartilhe seu cartão eletrônico com amigos e familiares
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+Agora que você criou seu cartão eletrônico audiovisual, é hora de compartilhá-lo com seus amigos e familiares.
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+Verifique se você está conectado ao Scratch e clique no botão **Compartilhar** para permitir que outras pessoas visualizem seu projeto.
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+Quando o seu projeto tiver sido compartilhado, clique no botão **Veja a Página do Projeto**. Isso pode levar algum tempo, pois o GIF precisa ser carregado.
 
-![image showing Project Page button](images/projects-page.png)
+![imagem mostrando o botão Página de Projeto](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+Agora você pode copiar o link do seu projeto e compartilhá-lo por email, rede social ou plataforma de mensagens.
 
-![image showing copy link button](images/copy-link.png)
+![imagem mostrando o botão copiar link](images/copy-link.png)
 
 --- /task ---
 
