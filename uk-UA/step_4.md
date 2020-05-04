@@ -1,40 +1,40 @@
-## Add some sound
+## Додай трохи звуку
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+Клацни на вкладку **Звуки** свого спрайта.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![зображення, що показує вибрану вкладку звуків спрайта](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+В лівому нижньому куточку екрана, наведи курсор на кнопку **Обрати звук** і вибери **Записати** для запису нового звуку.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![зображення, що показує кнопку звуків із виділеним пунктом запису звуку](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+Можливо тобі треба буде дозволити своєму веббраузеру використовувати мікрофон. Щоб зробити це, натисни **Дозволити**.
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![зображення, що показує запит веббраузера для доступу до мікрофона](images/allow-mic.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+Натисни на кнопку **Записати** і почни записувати свій голос. Коли скінчиш записувати повідомлення для отримувача електронної листівки, натисни **Зупинити запис**, а далі — **Зберегти**.
+
+![зображення, що показує діалогове вікно запису у Скретч](images/record.png)
+
+--- /task ---
+
+--- task ---
+
+Для відтворення звуку можна використовувати блок `оповістити`{:class="block3control"} на початку циклу анімації.
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+Далі використай блок `коли я отримую`{:class="block3control"} і почни відтворювати звук.
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+Можливо, ти захочеш використати блок `чекати`{:class="block3control"}, щоб контролювати початковий момент відтворення звуку.
 
 ```blocks3
 when I receive (message1 v)
