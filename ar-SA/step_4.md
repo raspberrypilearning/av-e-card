@@ -1,40 +1,40 @@
-## Add some sound
+## إضافة الصوت
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+انقر فوق علامة تبويب ** الأصوات ** للكائنات.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![الصورة تظهر علامات تبويب الأصوات المحددة للكائنات](images/sounds-tab.png)
+
+---/task--
+
+--- task ---
+
+في الزاوية السفلية اليمنى من الشاشة، مرر مؤشر الماوس فوق زر ** اختيار صوت ** واختر ** تسجيل ** لتسجيل صوت جديد.
+
+![الصورة تظهر زر الأصوات مع تحديد تسجيل](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+قد تحتاج لسماح متصفح الويب الخاص بك للوصول إلى الميكروفون. للقيام بذلك، انقر فوق ** سماح **.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![الصورة تظهر مطالبة متصفح الويب لتفعيل الوصول إلى الميكروفون](images/allow-mic.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+انقر فوق زر **تسجل** لتسجيل بضع ثوان من صوتك. عند الإنتهاء من رسالتك الصوتية لمستلم بطاقتك الإلكترونية، انقر فوق ** إيقاف التسجيل**، ثم انقر فوق ** حفظ **.
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![الصورة تظهر مربع حوار تسجيل الصوت داخل Scratch](images/record.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+لتشغيل الصوت، يمكنك استخدام كتلة ` بث ` {: class = "block3control"} عندما تبدأ حلقة الرسوم المتحركة.
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+ثم استخدم كتلة ` عندما أتلقى ` {: class = "block3control"} لبدء تشغيل الصوت.
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+قد ترغب في استخدام كتلة ` انتظر ` {: class = "block3control"} للتحكم في وقت بدء تشغيل الصوت.
 
 ```blocks3
 when I receive (message1 v)
