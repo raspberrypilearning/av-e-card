@@ -1,6 +1,6 @@
 ## Enregistre ta vidéo
 
-Tu ne peux pas ajouter de vidéo enregistrée à Scratch, mais tu peux importer des GIF. Lorsque tu importes un GIF en tant que sprite, Scratch sépare le GIF et chaque image du GIF devient un nouveau costume pour le nouveau sprite.
+Tu ne peux pas ajouter de vidéo enregistrée à Scratch, mais tu peux importer des GIFs. Lorsque tu importes un GIF en tant que sprite, Scratch sépare le GIF et chaque image du GIF devient un nouveau costume pour le nouveau sprite.
 
 **N'oublie pas que la vidéo que tu vas créer sera publique, alors assure-toi que tu n'as rien qui puisse identifier ton nom ou ton emplacement dans la prise de vue, et obtiens d'abord la permission de tes parents pour créer et utiliser la vidéo.**
 
@@ -83,7 +83,7 @@ Tout d'abord, télécharge ta vidéo : clique sur **Parcourir** , clique sur ton
 
 --- task ---
 
-Pour rendre les choses un peu plus rapides dans Scratch, tu dois optimiser le GIF. Pour ce faire, sélectionne la case à cocher **Optimiser**. Tu pourrais également vouloir réduire la résolution.
+Pour rendre les choses un peu plus rapides dans Scratch, tu dois optimiser le GIF. Pour ce faire, sélectionne la case à cocher **Optimiser**. Tu peux également vouloir réduire la résolution.
 
 ![Image montrant les options d'optimisation sur ezgif.com](images/optimise-gif.png)
 
