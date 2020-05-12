@@ -1,26 +1,26 @@
 ## 시청각 전자 카드를 친구, 가족과 공유하기
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+이제 시청각 전자 카드를 만들었으므로 친구, 가족과 공유할 시간입니다.
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+스크래치에 로그인한 상태로 **공유** 버튼을 클릭해 다른 사람들이 당신의 프로젝트를 볼 수 있도록 허용하세요.
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+프로젝트가 공유되면 **프로젝트 페이지 보기** 버튼을 클릭합니다. GIF를 업로드해야 하므로 시간이 좀 걸릴 수 있습니다.
 
-![image showing Project Page button](images/projects-page.png)
+![프로젝트 페이지 버튼을 보여주는 이미지](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+이제 프로젝트 링크를 복사하여 이메일, SNS 또는 메시지를 통해 공유할 수 있습니다.
 
-![image showing copy link button](images/copy-link.png)
+![링크 복사 버튼을 보여주는 이미지](images/copy-link.png)
 
 --- /task ---
 
