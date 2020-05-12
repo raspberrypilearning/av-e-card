@@ -1,30 +1,30 @@
-## Record your video
+## 동영상 녹화하기
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+동영상을 스크래치에 추가할 수는 없지만 GIF를 넣을 수는 있습니다. 스프라이트로 GIF를 가져오면 스크래치가 GIF를 프레임별로 나누고, GIF의 각 프레임은 새로운 스프라이트의 새로운 코스튬이 됩니다.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**만들려고 하는 동영상은 인터넷에 공개되므로, 동영상 파일 내에 자신의 이름이나 동영상 녹화 위치정보를 알아낼 수 있는 부분이 없는지 확인하고, 동영상을 촬영하기 전에 먼저 동영상을 만들고 사용할 수 있도록 부모님께 허락을 받아야 합니다.**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+아래 축소된 부분을 참고하여 컴퓨터의 웹캠을 사용하여 몇 초 동안 비디오를 녹화한 다음, 동영상을 컴퓨터에 저장합니다.
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: 윈도우에서 웹캠 녹화하기
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- **시작** 메뉴를 클릭하고 **카메라** 앱을 실행합니다.
 
 ![image showing start menu with camera app selected in Windows](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- **동영상 촬영** 버튼을 클릭해 짧은 영상을 녹화합니다.
 
 ![image showing camera app with record button](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- 당신의 영상은 `Pictures\Camera Roll`(카메라 앨범) 폴더에 있을 것입니다.
 
 ![image showing captured video in the camera roll folder](images/camera-roll.png)
 
