@@ -18,15 +18,15 @@ title: 윈도우에서 웹캠 녹화하기
 ---
 - **시작** 메뉴를 클릭하고 **카메라** 앱을 실행합니다.
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![윈도우에서 카메라 앱과 시작메뉴를 보여주는 이미지](images/camera-app.png)
 
 - **동영상 촬영** 버튼을 클릭해 짧은 영상을 녹화합니다.
 
-![image showing camera app with record button](images/record-win.png)
+![녹화 버튼이 있는 카메라 앱을 보여주는 이미지](images/record-win.png)
 
 - 당신의 영상은 `Pictures\Camera Roll`(카메라 앨범) 폴더에 있을 것입니다.
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![카메라 앨범 폴더에 있는 동영상을 보여주는 이미지](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: 윈도우에서 웹캠 녹화하기
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: 맥 os에서 웹캠 녹화하기
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- **응용 프로그램** 메뉴로 이동하여 QuickTime Player를 실행합니다.
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![QuickTime 플레이어가 선택된 macOS의 앱 메뉴를 보여주는 이미지](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- **파일**> **새로운 동영상 녹화**를 클릭하고 알림창이 표시되면 카메라 접근을 허용하세요.
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![카메라 액세스를 허용하는 알림창을 보여주는 이미지](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- 완료하면 동영상을 저장하거나 내보낼 수 있으며, 이 비디오가 바탕 화면에 나타납니다.
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: 크롬 os에서 웹캠 녹화하기
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- 앱 아이콘을 클릭하고 **카메라** 앱을 검색합니다.
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![Chrome OS에서 열린 카메라 앱을 보여주는 이미지](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- 오른쪽에 있는 **비디오**을 선택한 다음 **녹화** 버튼을 클릭합니다.
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![녹화 버튼이 눌린 카메라 앱을 보여주는 이미지](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- 작업을 마치면 **녹화** 버튼을 다시 클릭하면 `Videos` 폴더에 파일이 있습니다.
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![Chrome OS에서 열려있는 비디오 폴더를 보여주는 이미지](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+이제 동영상이 준비되었으므로 동영상 파일을 GIF로 변환해야합니다. 이 작업을 쉽게 수행할 수 있는 방법은 [rpf.io/gif에 있는 변환기](https://rpf.io/gif){:target="_blank"}를 사용하는 것입니다.
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+먼저 동영상을 업로드하십시오. **파일 선택** 버튼을 클릭하고 파일을 클릭한 다음 **Upload** 버튼을 클릭합니다.
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![ezgif.com 업로드 인터페이스를 보여주는 이미지](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+스크래치에서 좀 더 빠르게 실행하게 하려면 GIF를 최적화해야 합니다. 이렇게 하려면 **Optimize**에 체크합니다. 해상도를 낮출 수도 있습니다.
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![ezgif.com의 최적화 옵션을 보여주는 이미지](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+**Convert** 버튼을 클릭하고 GIF가 생성되면 **Save** 아이콘을 클릭하여 GIF를 저장합니다.
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![ezgif.com의 변환 버튼 이미지](images/convert_btn.png) ![ezgif.com의 저장 아이콘 이미지](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+끝나면 `다운로드` 폴더를 확인하세요.
 
 --- /task ---
 
