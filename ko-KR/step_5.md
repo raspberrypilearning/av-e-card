@@ -1,4 +1,4 @@
-## Share your e-card with friends and family
+## 시청각 전자 카드를 친구, 가족과 공유하기
 
 Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
 
