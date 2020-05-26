@@ -12,36 +12,36 @@ W tym projekcie wykorzystasz platformę Scratch do stworzenia audiowizualnej e-p
 
 --- collapse ---
 ---
-title: What you will need
+title: Czego będziesz potrzebować
 ---
-### Hardware
+### Sprzęt
 
-- A computer with a webcam and microphone
-- An internet connection
+- Komputer z kamerą internetową i mikrofonem
+- Połączenie z Internetem
 
-### Software
+### Oprogramowanie
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3 ([online](http://rpf.io/scratchon) lub [offline](http://rpf.io/scratchoff))
+- Przeglądarka internetowa
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Czego się nauczysz
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- Jak przekonwertować film na GIF
+- Jak animować GIF w Scratch
+- Jak dodać nagrany dźwięk do animacji
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Dodatkowe informacje dla nauczycieli
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
 
 --- /collapse ---
