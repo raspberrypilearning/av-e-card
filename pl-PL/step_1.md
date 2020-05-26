@@ -1,10 +1,10 @@
-## Introduction
+## Wprowadzenie
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+W tym projekcie wykorzystasz platformę Scratch do stworzenia audiowizualnej e-pocztówki, którą możesz wysłać znajomym i rodzinie.
 
-### What you will make
+### Co stworzysz
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Kliknij zieloną flagę, aby zobaczyć e-pocztówkę. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
