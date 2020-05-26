@@ -1,8 +1,8 @@
-## Add some sound
+## Dodaj trochę dźwięku
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+Kliknij zakładkę **Dźwięki** twojego duszka.
 
 ![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
 
@@ -10,7 +10,7 @@ Click on the **Sounds** tab for your sprite.
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+W lewym dolnym rogu ekranu najedź kursorem na **Wybierz dźwięk** i wybierz opcję **Nagraj** aby nagrać nowy dźwięk.
 
 ![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
 
@@ -18,7 +18,7 @@ In the bottom left-hand corner of the screen, hover over the **Choose a Sound** 
 
 --- task ---
 
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
+Może być konieczne zezwolenie przeglądarce na dostęp do mikrofonu. Aby to zrobić, kliknij **Udostępnij**.
 
 ![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
 
@@ -26,7 +26,7 @@ You might have to allow your web browser to access your microphone. To do this, 
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+Kliknij przycisk**Nagraj**, aby rozpocząć nagrywanie twojego głosu. Kiedy skończysz swoją wiadomość dla adresata twojej e-pocztówki, kliknij **Zatrzymaj nagrywanie**, a później kliknij **Zapisz**.
 
 ![image showing the record dialogue box within Scratch](images/record.png)
 
@@ -34,7 +34,7 @@ Click the **Record** button to start recording your voice. When you have finishe
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+Aby odtworzyć dźwięk, możesz użyć blok `nadaj komunikat`{:class="block3control"} podczas uruchamiania pętli animacji.
 
 ```blocks3
 when flag clicked
