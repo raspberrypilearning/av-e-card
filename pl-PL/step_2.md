@@ -1,32 +1,32 @@
-## Record your video
+## Nagraj swoje wideo
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+Nie możesz dodać nagranego wideo do Scratch, ale możesz importować pliki GIF. Po zaimportowaniu pliku GIF jako duszka, Scratch dzieli plik GIF, a każda klatka pliku GIF staje się nowym kostiumem dla nowego duszka.
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**Pamiętaj, że wideo, które zamierzasz utworzyć, będzie publiczne, więc upewnij się, że nie masz nic, co mogłoby zidentyfikować jak się nazywasz lub lokalizację w kadrze, i uzyskaj zgodę rodziców na utworzenie i wykorzystanie tego filmu w pierwszej kolejności.**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+Spójrz na zwinięte sekcje poniżej, aby pomóc Ci nagrać kilka sekund wideo za pomocą kamery internetowej komputera, a następnie zapisać wideo na dysku.
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: Nagrywanie wideo z kamery internetowej w systemie Windows
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- Kliknij przycisk menu **Start** i wybierz aplikację **Aparat**.
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![obraz przedstawiający menu Start z aplikacją aparatu wybraną w systemie Windows](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- Kliknij przycisk**Zarejestruj: Wideo**, aby nagrać kilka sekund wideo.
 
-![image showing camera app with record button](images/record-win.png)
+![obraz przedstawiający aplikację aparatu z przyciskiem nagrywania](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- Twój film powinien pojawić się w folderze ` Obrazy\Z aparatu`.
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![obraz pokazujący przechwycone wideo w folderze z aparatu](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: Nagrywanie wideo z kamery internetowej w systemie macOS
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- Przejdź do menu **Aplikacje**i otwórz QuickTime Player.
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![obraz przedstawiający menu aplikacji na macOS z wybranym odtwarzaczem QuickTime](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- Kliknij **Plik** > **Nowe nagranie filmowe**, po wyświetleniu monitu zezwól na dostęp do kamery.
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![obraz pokazujący monit umożliwiający dostęp do kamery](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- Po zakończeniu możesz zapisać lub wyeksportować wideo, które powinno pojawić się na pulpicie.
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: Nagrywanie wideo z kamery internetowej w systemie ChromeOS
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- Kliknij program uruchamiający aplikację i wyszukaj aplikację **kamera**.
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![obraz przedstawiający otwieranie aplikacji aparatu w systemie operacyjnym Chrome](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- Wybierz **Film** po prawej stronie, a następnie kliknij przycisk **rozpocznij nagrywanie**.
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![obraz przedstawiający aplikację aparatu z wciśniętym przyciskiem nagrywania](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- Po zakończeniu kliknij przycisk **Nagrywanie** ponownie, a plik znajdziesz w folderze `Wideo`.
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![obraz przedstawiający otwarty folder wideo w systemie operacyjnym Chrome](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+Teraz, gdy masz już wideo, musisz przekonwertować je na GIF. Prostym sposobem na to jest użycie [konwertera na rpf.io/gif](https://rpf.io/gif){:target="_ blank"}.
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+Najpierw prześlij film: kliknij przycisk **przeglądaj...**, kliknij na wybranym pliku, a następnie kliknij przycisk **Upload video**.
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![obraz przedstawiający interfejs przesyłania ezgif.com](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+Aby sprawić, by w Scratch było trochę szybciej, powinieneś zoptymalizować GIF. Aby to zrobić, wybierz opcję **Optimize** w polu wyboru. Możesz także zmniejszyć rozdzielczość.
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![Obraz przedstawiający opcje optymalizacji na ezgif.com](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+Kliknij przycisk **Convert to GIF!** i po utworzeniu pliku GIF kliknij ikonę **Save**, aby zapisać GIF.
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![obraz przycisku konwersji na ezgif.com](images/convert_btn.png) ![obraz ikony zapisu na ezgif.com](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+Po zakończeniu sprawdź folder `Pobrane` w celu znalezienie pliku GIF-a.
 
 --- /task ---
 
