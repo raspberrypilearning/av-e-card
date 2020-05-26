@@ -1,48 +1,48 @@
-## Add and animate your GIF in Scratch
+## Jak animować GIF w Scratch
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+Przejdź do [rpf.io/scratch-new](https://rpf.io/scratch-new) aby otworzyć nowy projekt Scratch.
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+Kliknij ikonę **Kosza** aby usunąć domyślnego duszka kota.
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![obraz przedstawiający duszka kota z ikoną kosza](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+Teraz najedź kursorem na **Wybierz duszka** a następnie kliknij **Wczytaj duszka** aby przesłać nowego duszka.
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![obraz pokazujący opcję wyboru menu duszka z przesłaniem wybranej duszka](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+Wybierz plik GIF w przeglądarce plików, a następnie prześlij go.
+
+![obraz pokazujący wybór GIF w przeglądarce plików](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+Kliknij zakładkę **Kostiumy** dla nowego duszka i powinieneś zobaczyć wszystkie pojedyncze klatki z GIF-a.
+
+![obraz przedstawiający GIF przekonwertowany na poszczególne kostiumy w Scratch](images/gif-costumes.png)
+
+Zanotuj liczbę wszystkich kostiumów, które masz, ponieważ będzie to ważne w następnym zadaniu.
+
+--- /task ---
+
+--- task ---
+
+Aby odtworzyć plik GIF, możesz użyć bloku`powtarzaj`{:class="block3control"}, wewnątrz bloku `zawsze`{:class="block3control"}. Blok `powtarzaj`{:class="block3control"} powinien pasować do liczby ramek z zaimportowanego pliku GIF.
 
 ```blocks3
 when flag clicked
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+Twoja animacja może być trochę za szybka, więc dodaj blok `czekaj`{:class="block3control"}, aby go nieco spowolnić.
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+Możesz także zwiększyć rozmiar animacji i przesunąć ją na środek sceny.
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+Pomocne jest również upewnienie się, że zawsze zaczynasz odtwarzać animację od pierwszego kostiumu.
 
 ```blocks3
 when flag clicked
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+Kliknij zieloną flagę, aby obejrzeć wideo odtwarzane na scenie.
 
 --- /task ---
 
