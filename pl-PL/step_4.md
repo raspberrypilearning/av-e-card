@@ -4,7 +4,7 @@
 
 Kliknij zakładkę **Dźwięki** twojego duszka.
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![obraz pokazujący zakładki dźwiękowe wybrane dla duszka](images/sounds-tab.png)
 
 --- /task ---
 
@@ -12,7 +12,7 @@ Kliknij zakładkę **Dźwięki** twojego duszka.
 
 W lewym dolnym rogu ekranu najedź kursorem na **Wybierz dźwięk** i wybierz opcję **Nagraj** aby nagrać nowy dźwięk.
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
+![obraz pokazujący przycisk dźwięków wybrany z wyróżnionym nagraniem dźwięku](images/record-sound.png)
 
 --- /task ---
 
@@ -20,7 +20,7 @@ W lewym dolnym rogu ekranu najedź kursorem na **Wybierz dźwięk** i wybierz op
 
 Może być konieczne zezwolenie przeglądarce na dostęp do mikrofonu. Aby to zrobić, kliknij **Udostępnij**.
 
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![obraz pokazujący monit przeglądarki internetowej, aby umożliwić dostęp do mikrofonu](images/allow-mic.png)
 
 --- /task ---
 
@@ -28,7 +28,7 @@ Może być konieczne zezwolenie przeglądarce na dostęp do mikrofonu. Aby to zr
 
 Kliknij przycisk**Nagraj**, aby rozpocząć nagrywanie twojego głosu. Kiedy skończysz swoją wiadomość dla adresata twojej e-pocztówki, kliknij **Zatrzymaj nagrywanie**, a później kliknij **Zapisz**.
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![obraz pokazujący okno dialogowe zapisu w Scratch](images/record.png)
 
 --- /task ---
 
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+Następnie, użyj bloku`kiedy otrzymam`{:class="block3control"} aby rozpocząć odtwarzanie dźwięku.
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+Może chcesz użyć bloku `czekaj`{:class="block3control"}, aby kontrolować, kiedy dźwięk zaczyna być odtwarzany.
 
 ```blocks3
 when I receive (message1 v)
