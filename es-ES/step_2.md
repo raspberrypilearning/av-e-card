@@ -91,7 +91,7 @@ Para hacer las cosas un poco más rápido en Scratch, debes optimizar el GIF. Pa
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+Haz clic en ** Convertir ** y, cuando se haya creado el GIF, haga clic en el icono** Guardar ** para guardar tu GIF.
 
 ![imagen del botón convertir en ezgif.com](images/convert_btn.png) ![imagen del icono de guardar en ezgif.com](images/save_icon.png)
 
