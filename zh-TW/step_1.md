@@ -1,10 +1,10 @@
-## Introduction
+## 介紹
 
-In this project, you will use the Scratch platform to make an audiovisual e-card that you can send to friends and family.
+在此專案中，您將會使用 Scratch 平台來製作一張視聽電子賀卡，並可以寄送給親朋好友。
 
-### What you will make
+### 您將會做出
 
---- no-print --- Click the green flag to view the e-card. <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+點擊綠色旗觀看電子賀卡。 <iframe src="https://scratch.mit.edu/projects/385557938/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -12,36 +12,36 @@ In this project, you will use the Scratch platform to make an audiovisual e-card
 
 --- collapse ---
 ---
-title: What you will need
+title: 您需要什麼
 ---
-### Hardware
+### 硬體
 
-- A computer with a webcam and microphone
-- An internet connection
+- 一台有網路攝影機和麥克風的電腦
+- 順暢的網路連線
 
-### Software
+### 軟體
 
-- Scratch 3 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-- A web browser
+- Scratch 3（ [線上版](http://rpf.io/scratchon) 或 [離線版](http://rpf.io/scratchoff) ）
+- 瀏覽器
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 您會學到
 ---
 
-- How to convert a video to a GIF
-- How to animate a GIF in Scratch
-- How to add recorded sound to an animation
+- 如何把影片轉成GIF
+- 如何在Scratch中用GIF做成動畫
+- 如何增加錄音檔到動畫中
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 給老師的其它資訊
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target="_blank"}.
+如果您需要列印此專案內容，請使用此 [列印版本](https://projects.raspberrypi.org/en/projects/av-e-card/print){:target =“_ blank”}。
 
 --- /collapse ---
