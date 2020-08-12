@@ -1,48 +1,48 @@
-## Add and animate your GIF in Scratch
+## 在Scratch加入和製作GIF動畫
 
 --- task ---
 
-Navigate to [rpf.io/scratch-new](https://rpf.io/scratch-new) to open a new Scratch project.
+到[rpf.io/scratch-new](https://rpf.io/scratch-new)開啟一個新的Scratch專案
 
 --- /task ---
 
 --- task ---
 
-Click on the **bin** icon to remove the default Scratch Cat sprite.
+點擊 **垃圾桶** 圖標來移除當前預設的貓咪角色。
 
-![image showing cat sprite with trashcan icon](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Now, hover over the **Choose a Sprite** button, then click on **Upload Sprite** to upload a new sprite.
-
-![image showing the choose a sprite menu option with upload a sprite selected](images/upload-sprite.png)
+![圖片顯示帶有垃圾桶標示的貓咪角色](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select your GIF from the file browser, then upload it.
+現在呢，將滑鼠停在**選個角色**按鈕上，點擊**上傳**上傳一個新的角色。
 
-![image showing selection of GIF in the file browser](images/select-gif.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Costumes** tab for your new sprite and you should see all the individual frames from your GIF.
-
-![image showing the GIF converted into individual costumes within Scratch](images/gif-costumes.png)
-
-Make a note of the total number of costumes that you have, as this will be important in the next task.
+![圖片顯示選擇角色選單並選定上傳一個角色](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-To play through the GIF, you can use a `repeat`{:class="block3control"} block, inside a `forever`{:class="block3control"} block. The `repeat`{:class="block3control"} block should match the number of frames from the imported GIF.
+選擇您在資料夾中的GIF並且上傳。
+
+![圖片顯示檔案瀏覽器中選擇的GIF](images/select-gif.png)
+
+--- /task ---
+
+--- task ---
+
+點擊您新角色的 **造形** 選單，您會看到每一張GIF的圖片。
+
+![圖片顯示 GIF 在 Scratch 中轉換成個別的造形](images/gif-costumes.png)
+
+現在記住您所有造形總數，因為這對下一個任務很重要。
+
+--- /task ---
+
+--- task ---
+
+要播放GIF，您可以使用 `重複`{:class="block3control"} 積木，裡面放一個`無限次`{:class="block3control"} 積木。 `重複`{:class="block3control"} 積木應等於 GIF 的圖片數量的總和。
 
 ```blocks3
 when flag clicked
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Your animation might be a little fast, so add a `wait`{:class="block3control"} block to slow it down a little.
+您的動畫可能會有點快，增加一個 `等待`{:class="block3control"} 積木來放慢一下速度。
 
 
 ```blocks3
@@ -69,7 +69,7 @@ next costume
 
 --- task ---
 
-You might also like to increase the size of the animation and reposition it in the centre of the Stage.
+您可能還想增加動畫的大小，並將動畫放置在舞台中央。
 
 ```blocks3
 when flag clicked
@@ -83,7 +83,7 @@ next costume
 
 --- task ---
 
-It's also helpful to make sure you always start playing the animation from the first costume.
+確保每次動畫都從第一個造形開始播放也是很有幫助的。
 
 ```blocks3
 when flag clicked
@@ -99,7 +99,7 @@ next costume
 
 --- task ---
 
-Click the green flag to watch your video being played on the Stage.
+點擊綠色旗觀看在舞台上您製作的影片。
 
 --- /task ---
 
