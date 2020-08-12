@@ -1,32 +1,32 @@
-## Record your video
+## 錄製一段您的影片
 
-You can't add recorded video to Scratch, but you can import GIFs. When you import a GIF as a sprite, Scratch breaks the GIF up, and each frame of the GIF becomes a new costume for the new sprite.
+您不能添加錄製的影片到 Scratch，但可以匯入GIFs。 當你匯入GIF為角色時，Scratch 會將 GIF 分開成一張一張的圖片，並且成為這新角色的每一個新造形。
 
-**Remember that the video you are going to create will be public, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the video first.**
+**請注意，您所製作的影片將會是公開的，因此請確保影片中沒有任何可以標識您的姓名和位置，並應先得到您父母的同意再製作和使用此影片。**
 
 --- task ---
 
-Look at the collapsed sections below to help you record a few seconds of video using your computer's webcam, then save the video to your drive.
+請查看下面關於如何在各個作業系統錄製影片的選單，錄製完畢後存取到您的電腦中。
 
 --- /task ---
 
 --- collapse ---
 ---
 
-title: Recording webcam video on Windows
+title: 在 Windows 上使用攝影機錄製影片
 
 ---
-- Click on the **Start** menu and choose the **Camera** app.
+- 點擊 **開始** 選單，然後選擇 **相機** 應用程式。
 
-![image showing start menu with camera app selected in Windows](images/camera-app.png)
+![圖片顯示Windows中相機應用程式的開始選單](images/camera-app.png)
 
-- Click the **Record** button to record a few seconds of video.
+- 點擊 **錄影** 按鈕，並錄下幾秒鐘的影片。
 
-![image showing camera app with record button](images/record-win.png)
+![圖片顯示相機應用程式的錄影按鈕](images/record-win.png)
 
-- Your video should appear in your `Pictures\Camera Roll` folder.
+- 您的影片會出現在`圖片\相機膠卷中`資料夾。
 
-![image showing captured video in the camera roll folder](images/camera-roll.png)
+![圖片顯示在相機膠卷中的影片檔案](images/camera-roll.png)
 
 
 --- /collapse ---
@@ -34,18 +34,18 @@ title: Recording webcam video on Windows
 --- collapse ---
 ---
 
-title: Recording webcam video on macOS
+title: 在 macOS 上使用攝影機錄製影片
 
 ---
-- Go to your **Applications** menu and open QuickTime Player.
+- 到 **應用程式** 選單，打開 QuickTime Player。
 
-![image showing menu of apps on macOS with QuickTime player selected](images/quicktime.png)
+![圖片顯示已選擇QuickTime player的macOS上的應用程式選單](images/quicktime.png)
 
-- Click on **File** > **New Movie Recording**, then allow access to the camera when prompted.
+- 點擊 **檔案**>**新增影片錄製**，然後允許攝影機的存取權限。
 
-![image showing prompt to allow camera access](images/allow_cam_macOS.png)
+![圖片顯示允許相機存取的提示](images/allow_cam_macOS.png)
 
-- When you have finished, you can save or export your video, and it should appear on your desktop.
+- 完成後，您可以儲存或是輸出您的影片，檔案將會出現在桌面上。
 
 
 --- /collapse ---
@@ -53,54 +53,54 @@ title: Recording webcam video on macOS
 --- collapse ---
 ---
 
-title: Recording webcam video on Chrome OS
+title: 在 Chrome OS 上使用攝影機錄製影片
 
 ---
 
-- Click on your application launcher and search for the **Camera** app.
+- 點擊您的應用程式啟動器，然後搜尋 **相機**。
 
-![image showing camera app being opened on Chrome OS](images/opencamera.png)
+![圖片顯示在Chrome OS上開啟相機應用程式](images/opencamera.png)
 
-- Select **Video** on the right-hand side, and then click the **Record** button.
+- 選擇右側 **影片**，並點擊 **錄製** 按鈕。
 
-![image showing camera app with Record being pressed](images/hitrecord.png)
+![圖片顯示相機應用程式的錄影按鈕](images/hitrecord.png)
 
-- When you have finished, click the **Record** button again, and you will find your file in the `Videos` folder.
+- 完成後，再點擊一次 **錄製** 按鈕，檔案會儲存在 `影片` 資料夾裡。
 
-![image showing opened video folder on Chrome OS](images/videosfolder.png)
+![圖片顯示在Chrome OS上打開影片資料夾](images/videosfolder.png)
 
 --- /collapse ---
 
-Now that you have the video, you need to convert it to a GIF. An easy way to do this is to use [the converter at rpf.io/gif](https://rpf.io/gif){:target="_blank"}.
+現在您有了影片，你需要轉換成GIF。 一種最簡易的方式是使用 [rpf.io/gif](https://rpf.io/gif){:target='_blank"}轉換器。
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload** button.
+首先，上傳您的影片：點擊**瀏覽**，選擇您的檔案，再按 **上傳**。
 
-![image showing ezgif.com upload interface](images/ezgif-upload.png)
+![圖片顯示ezgif.com上傳介面](images/ezgif-upload.png)
 
 --- /task ---
 
 --- task ---
 
-To make things a little faster in Scratch, you should optimise the GIF. To do this, select the **Optimize** checkbox. You might also like to reduce the resolution.
+為了使在 Scratch 時運作得更快速，您應該把 GIF 優化。 因此，將 **Optimize** 選項打勾。 你可能還想降低解析度。
 
-![Image showing optimisation options on ezgif.com](images/optimise-gif.png)
+![圖片顯示ezgif.com上的優化選項](images/optimise-gif.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Convert** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+點擊 **Convert to GIF!** 轉換按鈕，當GIF製作完成後，點擊 **save** 儲存按鈕並儲存檔案。
 
-![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
+![在ezgif.com上的轉換按鈕圖片](images/convert_btn.png) ![在ezgif.com上的儲存按鈕圖片](images/save_icon.png)
 
 --- /task ---
 
 
 --- task ---
 
-When you have finished, check your `Downloads` folder for the GIF.
+完成後，檢查您的`下載`資料夾是否有GIF。
 
 --- /task ---
 
