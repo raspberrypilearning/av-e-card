@@ -1,40 +1,40 @@
-## Add some sound
+## 增加一點音效
 
 --- task ---
 
-Click on the **Sounds** tab for your sprite.
+點擊您角色中 **音效** 選單
 
-![image showing sounds tabs selected for the sprite](images/sounds-tab.png)
+![圖片顯示在角色裡被選擇的音效選單](images/sounds-tab.png)
 
 --- /task ---
 
 --- task ---
 
-In the bottom left-hand corner of the screen, hover over the **Choose a Sound** button and select **Record** to record a new sound.
+在螢幕的左下角，將鼠標移至**選個音效**按鈕，然後選擇 **錄製** 去錄製一段新的音效。
 
-![image showing sounds button selected with record a sound highlighted](images/record-sound.png)
-
---- /task ---
-
---- task ---
-
-You might have to allow your web browser to access your microphone. To do this, click on **Allow**.
-
-![image showing web browser prompt to enable access to microphone](images/allow-mic.png)
+![圖片顯示錄製按鈕](images/record-sound.png)
 
 --- /task ---
 
 --- task ---
 
-Click the **Record** button to start recording your voice. When you have finished your message for the recipient of your e-card, click on **Stop recording**, then click on **Save**.
+您可能需要允許網頁瀏覽器存取您的電腦麥克風。 請點擊**允許**
 
-![image showing the record dialogue box within Scratch](images/record.png)
+![圖片顯示網頁瀏覽器跳出存取麥克風的提示](images/allow-mic.png)
 
 --- /task ---
 
 --- task ---
 
-To play the sound, you can use a `broadcast`{:class="block3control"} block when the animation loop starts.
+點擊 **錄製** 按鈕開始錄製您的音效。 當您完成電子賀卡的訊息錄音後，點擊 **停止錄製** 然後再按 **儲存**。
+
+![圖片顯示Scratch錄音的對話框](images/record.png)
+
+--- /task ---
+
+--- task ---
+
+您可以使用 `廣播訊息`{:class="block3control"} 積木在播放動畫的同時，播出音效。
 
 ```blocks3
 when flag clicked
@@ -50,7 +50,7 @@ next costume
 
 --- task ---
 
-Then, use a `when I receive`{:class="block3control"} block to start playing the sound.
+然後，使用一個`當收到訊息`{:class="block3control"} 積木來開始播放聲音。
 
 ```blocks3
 when I receive (message1 v)
@@ -61,7 +61,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-You might like to use a `wait`{:class="block3control"} block to control when the sound starts being played.
+您亦可以使用 `等待`{:class="block3control"} 積木來控制什麼時候開始播放音效。
 
 ```blocks3
 when I receive (message1 v)
