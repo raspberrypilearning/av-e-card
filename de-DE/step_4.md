@@ -2,7 +2,7 @@
 
 --- task ---
 
-Klicke auf die Registerkarte **Töne** für deine Figur.
+Klicke auf die Registerkarte **Klänge** für deine Figur.
 
 ![das Bild zeigt den Reiter Klänge der ausgewählten Figur](images/sounds-tab.png)
 
