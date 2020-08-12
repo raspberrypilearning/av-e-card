@@ -1,26 +1,26 @@
-## Share your e-card with friends and family
+## 與親朋好友分享您的電子賀卡
 
-Now that you've created your audiovisual e-card, it's time to share it with your friends and family.
+現在您創造了屬於您的視聽電子賀卡，是時候和您的親朋好友分享了。
 
 --- task ---
 
-Make sure that you are logged in to Scratch, then click the **Share** button, to allow others to view your project.
+確保您已登入 Scratch，並且點擊 **分享** 按鈕，允許其他人觀看您的專案。
 
 --- /task ---
 
 --- task ---
 
-When your project has been shared, click the **See Project Page** button. This might take some time, as the GIF needs to be uploaded.
+分享項目後，點擊 **切換到專案頁面** 按鈕。 因為GIF需要上傳，可能會花上一些時間。
 
-![image showing Project Page button](images/projects-page.png)
+![圖片顯示專案頁面按鈕](images/projects-page.png)
 
 --- /task ---
 
 --- task ---
 
-You can now copy the link for your project and share it via email, a social network, or a messaging platform.
+您可以複製您的專案連結並透過電郵、社群軟體或是訊息平台分享給您的親朋好友。
 
-![image showing copy link button](images/copy-link.png)
+![圖片顯示複製連結按鈕](images/copy-link.png)
 
 --- /task ---
 
