@@ -34,7 +34,7 @@ Titel: Aufnahme von Webcam-Videos unter Windows
 --- collapse ---
 ---
 
-Titel: Aufnahme von Webcam-Videos unter Windows
+Titel: Aufnahme von Webcam-Videos unter macOS
 
 ---
 - Gehe zum Menü ** Anwendungen** und öffne den QuickTime Player.
