@@ -72,12 +72,12 @@ próxima fantasia
 Você também pode aumentar o tamanho da animação e reposicioná-la no centro do palco.
 
 ```blocks3
-quando bandeira verde for clicado
-+ defina o tamanho como (150) %
-sempre
-repita (35) vezes
-espere (0.04) seg
-próxima fantasia
+when flag clicked
++set size to (150) %
+forever
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
@@ -87,13 +87,13 @@ próxima fantasia
 Também é importante garantir que você sempre comece a reproduzir a animação da primeira fantasia.
 
 ```blocks3
-quando bandeira verde for clicado
-+ mude para a fantasia (egif v)
-defina o tamanho como (150) %
-sempre
-repita (35) vezes
-espere (0.04) seg
-próxima fantasia
+when flag clicked
++switch costume to (ezgif v)
+set size to (150) %
+forever
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
