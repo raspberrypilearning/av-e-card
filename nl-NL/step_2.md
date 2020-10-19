@@ -75,7 +75,7 @@ Nu je de video hebt, moet je deze converteren naar een GIF. Een makkelijke manie
 
 --- task ---
 
-Upload eerst je video: klik op de **Bladeren** knop, klik op je bestand en klik vervolgens op de **Uploaden** knop.
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![afbeelding met ezgif.com upload interface](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ Om dingen in Scratch iets sneller te maken, moet je de GIF optimaliseren. Select
 
 --- task ---
 
-Klik op de **Convert** knop, en wanneer de GIF is gemaakt, klik op het **Save** pictogram om je GIF op te slaan.
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![afbeelding van de convert knop op ezgif.com](images/convert_btn.png) ![afbeelding van de convert knop op ezgif.com](images/save_icon.png)
 
