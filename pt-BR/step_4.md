@@ -37,14 +37,14 @@ Clique no botão **Gravar** para começar a gravar sua voz. Quando você termina
 Para reproduzir o som, você pode usar um bloco `transmita`{:class="block3control"} quando o laço de animação iniciar.
 
 ```blocks3
-quando bandeira verde for clicado
-mude para a fantasia (ezgif v)
-defina o tamanho como (150) %
-sempre
-+ transmita (mensagem1 v)
-repita (35) vezes
-espere (0.04) seg
-próxima fantasia
+when flag clicked
+switch costume to (ezgif v)
+set size to (150) %
+forever
++broadcast (message1 v)
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
