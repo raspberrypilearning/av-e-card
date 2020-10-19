@@ -23,7 +23,7 @@ title: Nagrywanie wideo z kamery internetowej w systemie Windows
 
 ![obraz przedstawiający aplikację aparatu z przyciskiem nagrywania](images/record-win.png)
 
-- Twój film powinien pojawić się w folderze ` Obrazy\Z aparatu`.
+- Twój film powinien pojawić się w folderze `Obrazy\Z aparatu`.
 
 ![obraz pokazujący przechwycone wideo w folderze z aparatu](images/camera-roll.png)
 

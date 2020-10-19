@@ -26,7 +26,7 @@ Może być konieczne zezwolenie przeglądarce na dostęp do mikrofonu. Aby to zr
 
 --- task ---
 
-Kliknij przycisk**Nagraj**, aby rozpocząć nagrywanie twojego głosu. Kiedy skończysz swoją wiadomość dla adresata twojej e-pocztówki, kliknij **Zatrzymaj nagrywanie**, a później kliknij **Zapisz**.
+Kliknij przycisk **Nagraj**, aby rozpocząć nagrywanie twojego głosu. Kiedy skończysz swoją wiadomość dla adresata twojej e-pocztówki, kliknij **Zatrzymaj nagrywanie**, a później kliknij **Zapisz**.
 
 ![obraz pokazujący okno dialogowe zapisu w Scratch](images/record.png)
 
