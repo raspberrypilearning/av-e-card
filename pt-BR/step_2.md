@@ -75,7 +75,7 @@ Agora que você possui o vídeo, precisa convertê-lo em um GIF. Uma maneira fá
 
 --- task ---
 
-Primeiro, faça o upload do seu vídeo: clique no botão **Escolher Arquivo**, escolha o seu arquivo e clique no botão **Upload video!**
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![imagem mostrando a interface de upload do ezgif.com](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ Para tornar as coisas um pouco mais rápidas no Scratch, você deve otimizar o G
 
 --- task ---
 
-Clique no botão **Convert to GIF!** e, quando o GIF tiver sido criado, clique no ícone **save** para salvar seu GIF.
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![imagem do botão converter em ezgif.com](images/convert_btn.png) ![imagem do ícone salvar em ezgif.com](images/save_icon.png)
 
