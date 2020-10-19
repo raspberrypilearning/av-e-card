@@ -75,7 +75,7 @@ title: Εγγραφή βίντεο με την κάμερα στο Chrome OS
 
 --- task ---
 
-Αρχικά, μεταφόρτωσε το βίντεό σου: κάνε κλικ στο κουμπί **Αναζήτηση**, κάνε κλικ στο αρχείο σου και στη συνέχεια κάνε κλικ στο κουμπί **Μεταφόρτωση**.
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![εικόνα που δείχνει τη διεπαφή μεταφόρτωσης ezgif.com](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ title: Εγγραφή βίντεο με την κάμερα στο Chrome OS
 
 --- task ---
 
-Κάνε κλικ στο κουμπί **Μετατροπή**, και όταν δημιουργηθεί το GIF, κάνε κλικ στο εικονίδιο **Αποθήκευση** για να αποθηκεύσεις το GIF σου.
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![εικόνα του κουμπιού μετατροπής στο ezgif.com](images/convert_btn.png) ![εικόνα του κουμπιού αποθήκευσης στο ezgif.com](images/save_icon.png)
 
