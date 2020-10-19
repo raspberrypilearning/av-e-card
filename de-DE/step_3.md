@@ -72,11 +72,12 @@ wechsle zum nächsten Kostüm
 Du kannst die Animation auch vergrößern und in der Mitte der Bühne neu positionieren.
 
 ```blocks3
-Wenn Flagge angeklickt wird 
-+ setze Größe auf (150)%
-wiederhole fortlaufend
-wiederhole (35) mal
-wechsle zum nächsten Kostüm
+when flag clicked
++set size to (150) %
+forever
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
@@ -86,12 +87,13 @@ wechsle zum nächsten Kostüm
 Es ist auch hilfreich sicherzustellen, dass du die Animation immer vom ersten Kostüm an abspielst.
 
 ```blocks3
-Wenn Flagge angeklickt wird
-wechsle zu Kostüm (ezgif v)
-setze Größe auf (150) %
-wiederhole fortlaufend
-wiederhole (35) mal
-wechsle zum nächsten Kostüm
+when flag clicked
++switch costume to (ezgif v)
+set size to (150) %
+forever
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
