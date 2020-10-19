@@ -37,13 +37,14 @@ Klicke auf die **Aufnehmen** Taste, um deine Stimme aufzunehmen. Wenn du deine N
 Um den Sound abzuspielen, kannst du einen `sende an alle` {:class="block3control"} Block hinzufügen, wenn die Animationsschleife startet.
 
 ```blocks3
-Wenn Flagge angeklickt wird
-wechsle zu Kostüm (ezgiv v)
-setze Größe auf (150) %
-wiederhole fortlaufend
-+sende (Nachricht1 v) an alle 
-wiederhole (35) mal
-wechsle zum nächstes Kostüm
+when flag clicked
+switch costume to (ezgif v)
+set size to (150) %
+forever
++broadcast (message1 v)
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
