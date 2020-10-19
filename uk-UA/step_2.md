@@ -75,7 +75,7 @@ title: Запис відео з вебкамери у Chrome OS
 
 --- task ---
 
-Спочатку завантаж своє відео: натисни кнопку **Вибрати файл**, вибери свій файл, а потім натистни кнопку **Upload video!**.
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![зображення, що показує інтерфейс завантаження ezgif.com](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ title: Запис відео з вебкамери у Chrome OS
 
 --- task ---
 
-Натисни на кнопку **Convert to GIF!**, а коли GIF буде створено, натисни кнопку **Save**, щоб його зберегти.
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![зображення кнопки конвертування (convert) на ezgif.com](images/convert_btn.png) ![зображення іконки збереження (save) на ezgif.com](images/save_icon.png)
 
