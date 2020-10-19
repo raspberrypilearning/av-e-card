@@ -3,9 +3,9 @@ title: "視聽電子賀卡"
 hero_image: images/banner.png
 description: 使用 Scratch 創造一張視聽電子賀卡
 version: 4
-listed: false
-copyedit: false
-last_tested: "2020-04-15"
+listed: true
+copyedit: true
+last_tested: "2020-08-21"
 steps:
   - 
     title: 介紹
