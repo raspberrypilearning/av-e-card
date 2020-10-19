@@ -75,7 +75,7 @@ title: 在 Chrome OS 上使用攝影機錄製影片
 
 --- task ---
 
-首先，上傳您的影片：點擊**瀏覽**，選擇您的檔案，再按 **上傳**。
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![圖片顯示ezgif.com上傳介面](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ title: 在 Chrome OS 上使用攝影機錄製影片
 
 --- task ---
 
-點擊 **Convert to GIF!** 轉換按鈕，當GIF製作完成後，點擊 **save** 儲存按鈕並儲存檔案。
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![在ezgif.com上的轉換按鈕圖片](images/convert_btn.png) ![在ezgif.com上的儲存按鈕圖片](images/save_icon.png)
 
