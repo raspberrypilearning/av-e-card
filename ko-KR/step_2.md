@@ -75,7 +75,7 @@ title: 크롬 os에서 웹캠 녹화하기
 
 --- task ---
 
-먼저 동영상을 업로드하십시오. **파일 선택** 버튼을 클릭하고 파일을 클릭한 다음 **Upload** 버튼을 클릭합니다.
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![ezgif.com 업로드 인터페이스를 보여주는 이미지](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ title: 크롬 os에서 웹캠 녹화하기
 
 --- task ---
 
-**Convert** 버튼을 클릭하고 GIF가 생성되면 **Save** 아이콘을 클릭하여 GIF를 저장합니다.
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![ezgif.com의 변환 버튼 이미지](images/convert_btn.png) ![ezgif.com의 저장 아이콘 이미지](images/save_icon.png)
 
