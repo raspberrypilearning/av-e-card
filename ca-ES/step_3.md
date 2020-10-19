@@ -72,11 +72,12 @@ següent vestit
 També potser t'agradaria augmentar la mida de l’animació i reposicionar-la al centre de l’Escenari.
 
 ```blocks3
-quan la bandera es cliqui
-+fixa la mida a (150) %
-per sempre
-repeteix (35)
-següent vestit
+when flag clicked
++set size to (150) %
+forever
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
@@ -86,12 +87,13 @@ següent vestit
 També és útil assegurar-te que sempre començaràs a reproduir l'animació des del primer vestit.
 
 ```blocks3
-quan la bandera es cliqui
-+canvia el vestit a (ezgif v)
-fixa la mida a (150) %
-per sempre
-repeteix (35)
-següent vestit
+when flag clicked
++switch costume to (ezgif v)
+set size to (150) %
+forever
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
