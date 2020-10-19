@@ -75,7 +75,7 @@ title: Chrome OS पर वेब कैमरा वीडियो रिक�
 
 --- task ---
 
-सबसे पहले, अपना वीडियो अपलोड करें: **Browse** बटन पर क्लिक करें, फिर अपनी फ़ाइल पर क्लिक करें, फिर **Upload** बटन पर क्लिक करें।
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![image showing ezgif.com upload interface](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ Scratch में चीजों को थोड़ा तेज करने 
 
 --- task ---
 
-**Convert** बटन पर क्लिक करें, और जब GIF बन जाए, तो उसे सहेजने के लिए **Save** पर क्लिक करें।
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![image of the convert button on ezgif.com](images/convert_btn.png) ![image of the save icon on ezgif.com](images/save_icon.png)
 
