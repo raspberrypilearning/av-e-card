@@ -75,7 +75,7 @@ title: Chrome OSでウェブカメラを使って動画を録画する
 
 --- task ---
 
-まず，動画をアップロードします：**ファイルを選択**ボタンを押し、ファイルを選んで**Upload video!**（動画をアップロード！）ボタンを押します。
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![ezgif.comのアップロード画面を示す画像](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ Scratchでの処理をちょっと速くするために、GIFを最適化（さ�
 
 --- task ---
 
-**Convert to GIF!**（GIFに変換する！）ボタンを押します。GIFが生成されたら、**Save**アイコンを押してGIFを保存します。
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![ezgif.comの変換ボタンを示す画像](images/convert_btn.png) ![ezgif.comの保存アイコンの画像](images/save_icon.png)
 
