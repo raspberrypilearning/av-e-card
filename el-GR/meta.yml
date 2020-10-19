@@ -3,9 +3,9 @@ title: "Μια οπτικοακουστική ηλεκτρονική κάρτα"
 hero_image: images/banner.png
 description: Δημιούργησε μια οπτικοακουστική ηλεκτρονική κάρτα με το Scratch
 version: 4
-listed: false
-copyedit: false
-last_tested: "2020-04-15"
+listed: true
+copyedit: true
+last_tested: "2020-08-21"
 steps:
   - 
     title: Εισαγωγή
