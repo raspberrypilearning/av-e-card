@@ -43,6 +43,7 @@ set size to (150) %
 forever
 +broadcast (message1 v)
 repeat (35)
++wait (0.04) seconds
 next costume
 ```
 
