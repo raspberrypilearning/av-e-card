@@ -75,7 +75,7 @@ Ara que tens el vídeo, has de convertir-lo en GIF. Una manera fàcil de fer-ho 
 
 --- task ---
 
-Primer, penja el teu vídeo: fes clic a **Tria un fitxer**, fes clic al fitxer i després fes clic al botó **Upload video!**.
+First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
 
 ![imatge que mostra la interfície de càrrega de ezgif.com](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ Per fer les coses una mica més ràpides a Scratch, hauríes d’optimitzar el G
 
 --- task ---
 
-Fes clic a **Convert to GIF!** i quan s'hagi creat el GIF, fes clic a la icona **Save** per desar el GIF.
+Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
 
 ![imatge del botó de conversió a ezgif.com](images/convert_btn.png) ![imatge del botó de desar a ezgif.com](images/save_icon.png)
 
