@@ -37,13 +37,14 @@ Fes clic al botó **Enregistra** per començar a gravar la teva veu. Quan hagis 
 Per reproduir el so, pots utilitzar un bloc `envia a tots`{:class="block3control"} quan s'inicia el bucle d'animació.
 
 ```blocks3
-quan la bandera es cliqui
-canvia el vestit a (ezgif v)
-fixa la mida a (150) %
-per sempre
-+envia a tots (missatge1 v)
-repeteix (35)
-següent vestit
+when flag clicked
+switch costume to (ezgif v)
+set size to (150) %
+forever
++broadcast (message1 v)
+repeat (35)
++wait (0.04) seconds
+next costume
 ```
 
 --- /task ---
