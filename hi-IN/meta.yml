@@ -3,9 +3,9 @@ title: "एक अनोखा ई-कार्ड"
 hero_image: images/banner.png
 description: Scratch के माध्यम से एक अनोखा ई-कार्ड बनाएं
 version: 4
-listed: false
-copyedit: false
-last_tested: "2020-04-15"
+listed: true
+copyedit: true
+last_tested: "2020-08-21"
 steps:
   - 
     title: परिचय
