@@ -1,14 +1,16 @@
 ---
-title: "音声と映像がついた電子グリーティング・カード"
+title: 音声と映像がついた電子グリーティング・カード
 hero_image: images/banner.png
 description: Scratchで音声と映像がついた電子グリーティング・カードをつくる
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-15"
+last_tested: '2020-04-15'
 steps:
-  - title: はじめに
-  - title: 動画を録画する
-  - title: GIFを追加する
-  - title: 音声を追加する
-  - title: 電子グリーティング・カードを友だちや家族と共有する
+- title: はじめに
+  completion: engaged
+- title: 動画を録画する
+- title: GIFを追加する
+- title: 音声を追加する
+  completion: internal
+- title: 電子グリーティング・カードを友だちや家族と共有する

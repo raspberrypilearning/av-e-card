@@ -1,14 +1,16 @@
 ---
-title: "Eine audiovisuelle E-Card"
+title: Eine audiovisuelle E-Card
 hero_image: images/banner.png
 description: Erstelle eine audiovisuelle E-Card mit Scratch
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-15"
+last_tested: '2020-04-15'
 steps:
-  - title: Einleitung
-  - title: Nimm dein Video auf
-  - title: Füge dein GIF hinzu
-  - title: Füge einen Ton hinzu
-  - title: Teile deine E-Card mit Freunden und Familie
+- title: Einleitung
+  completion: engaged
+- title: Nimm dein Video auf
+- title: Füge dein GIF hinzu
+- title: Füge einen Ton hinzu
+  completion: internal
+- title: Teile deine E-Card mit Freunden und Familie

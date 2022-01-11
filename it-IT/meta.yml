@@ -1,14 +1,16 @@
 ---
-title: "Un biglietto d'auguri multimediale"
+title: Un biglietto d'auguri multimediale
 hero_image: images/banner.png
 description: Creare un biglietto d'auguri multimediale con Scratch
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-15"
+last_tested: '2020-04-15'
 steps:
-  - title: Introduzione
-  - title: Registra il tuo video
-  - title: Aggiungi la tua GIF
-  - title: Aggiungi il sonoro
-  - title: Condividi il tuo biglietto d'auguri con amici e familiari
+- title: Introduzione
+  completion: engaged
+- title: Registra il tuo video
+- title: Aggiungi la tua GIF
+- title: Aggiungi il sonoro
+  completion: internal
+- title: Condividi il tuo biglietto d'auguri con amici e familiari

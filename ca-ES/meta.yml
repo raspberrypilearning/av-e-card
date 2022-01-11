@@ -1,14 +1,16 @@
 ---
-title: "Una targeta audiovisual electrònica"
+title: Una targeta audiovisual electrònica
 hero_image: images/banner.png
 description: Crea una targeta audiovisual electrònica amb Scratch
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-15"
+last_tested: '2020-04-15'
 steps:
-  - title: Introducció
-  - title: Grava el teu vídeo
-  - title: Afegeix el teu GIF
-  - title: Afegeix algun so
-  - title: Comparteix la teva targeta electrònica amb amics i familiars
+- title: Introducció
+  completion: engaged
+- title: Grava el teu vídeo
+- title: Afegeix el teu GIF
+- title: Afegeix algun so
+  completion: internal
+- title: Comparteix la teva targeta electrònica amb amics i familiars

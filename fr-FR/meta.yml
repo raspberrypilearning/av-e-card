@@ -1,14 +1,16 @@
 ---
-title: "Une carte virtuelle multimédia"
+title: Une carte virtuelle multimédia
 hero_image: images/banner.png
 description: Crée une carte virtuelle multimédia avec Scratch
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-15"
+last_tested: '2020-04-15'
 steps:
-  - title: Introduction
-  - title: Enregistre ta vidéo
-  - title: Ajoute ton GIF
-  - title: Ajoute du son
-  - title: Partage ta carte virtuelle avec tes amis et ta famille
+- title: Introduction
+  completion: engaged
+- title: Enregistre ta vidéo
+- title: Ajoute ton GIF
+- title: Ajoute du son
+  completion: internal
+- title: Partage ta carte virtuelle avec tes amis et ta famille
