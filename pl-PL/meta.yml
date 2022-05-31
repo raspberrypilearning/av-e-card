@@ -1,14 +1,18 @@
 ---
-title: "Audiowizualna e-pocztówka"
+title: Audiowizualna e-pocztówka
 hero_image: images/banner.png
 description: Utwórz audiowizualną e-pocztówkę za pomocą Scratch
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
-  - title: Wprowadzenie
-  - title: Nagraj swoje wideo
-  - title: Dodaj swój GIF
-  - title: Dodaj trochę dźwięku
-  - title: Podziel się swoją e-pocztówką z rodziną i znajomymi
+- title: Wprowadzenie
+- title: Nagraj swoje wideo
+- title: Dodaj swój GIF
+  completion:
+  - engaged
+- title: Dodaj trochę dźwięku
+  completion:
+  - internal
+- title: Podziel się swoją e-pocztówką z rodziną i znajomymi
