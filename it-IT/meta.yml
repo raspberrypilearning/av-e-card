@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Registra il tuo video
 - title: Aggiungi la tua GIF
+  completion:
+  - engaged
 - title: Aggiungi il sonoro
-  completion: internal
+  completion:
+  - internal
 - title: Condividi il tuo biglietto d'auguri con amici e familiari

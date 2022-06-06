@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: المقدمة
-  completion: engaged
 - title: قم تسجيل الفيديو الخاص بك
 - title: أضف ملف GIF
+  completion:
+  - engaged
 - title: أضف الصوت
-  completion: internal
+  completion:
+  - internal
 - title: شارك بطاقتك الإلكترونية مع الأصدقاء والعائلة

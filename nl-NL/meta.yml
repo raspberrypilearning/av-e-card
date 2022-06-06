@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Neem je video op
 - title: Voeg je GIF toe
+  completion:
+  - engaged
 - title: Voeg wat geluid toe
-  completion: internal
+  completion:
+  - internal
 - title: Deel je e-card met vrienden en familie

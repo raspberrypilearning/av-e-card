@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Enregistre ta vidéo
 - title: Ajoute ton GIF
+  completion:
+  - engaged
 - title: Ajoute du son
-  completion: internal
+  completion:
+  - internal
 - title: Partage ta carte virtuelle avec tes amis et ta famille

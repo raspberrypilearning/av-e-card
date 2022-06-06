@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: はじめに
-  completion: engaged
 - title: 動画を録画する
 - title: GIFを追加する
+  completion:
+  - engaged
 - title: 音声を追加する
-  completion: internal
+  completion:
+  - internal
 - title: 電子グリーティング・カードを友だちや家族と共有する

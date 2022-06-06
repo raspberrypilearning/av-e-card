@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Κατέγραψε το βίντεό σου
 - title: Πρόσθεσε το GIF σου
+  completion:
+  - engaged
 - title: Πρόσθεσε λίγο ήχο
-  completion: internal
+  completion:
+  - internal
 - title: Διαμοιράσου την ηλεκτρονική σου κάρτα με φίλους και συγγενείς

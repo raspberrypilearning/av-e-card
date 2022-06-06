@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Nimm dein Video auf
 - title: Füge dein GIF hinzu
+  completion:
+  - engaged
 - title: Füge einen Ton hinzu
-  completion: internal
+  completion:
+  - internal
 - title: Teile deine E-Card mit Freunden und Familie

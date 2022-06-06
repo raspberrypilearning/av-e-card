@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Introducció
-  completion: engaged
 - title: Grava el teu vídeo
 - title: Afegeix el teu GIF
+  completion:
+  - engaged
 - title: Afegeix algun so
-  completion: internal
+  completion:
+  - internal
 - title: Comparteix la teva targeta electrònica amb amics i familiars

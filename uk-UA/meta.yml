@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Вступ
-  completion: engaged
 - title: Запиши власне відео
 - title: Додай свій GIF
+  completion:
+  - engaged
 - title: Додай трохи звуку
-  completion: internal
+  completion:
+  - internal
 - title: Поділися своєю електронною листівкою з друзями та родиною

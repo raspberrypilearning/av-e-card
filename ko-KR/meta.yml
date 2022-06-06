@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: 소개
-  completion: engaged
 - title: 동영상 녹화하기
 - title: GIF 추가하기
+  completion:
+  - engaged
 - title: 소리 추가하기
-  completion: internal
+  completion:
+  - internal
 - title: 시청각 전자 카드를 친구, 가족과 공유하기

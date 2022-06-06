@@ -8,9 +8,11 @@ copyedit: false
 last_tested: '2020-04-15'
 steps:
 - title: Introdução
-  completion: engaged
 - title: Grave seu vídeo
 - title: Adicione seu GIF
+  completion:
+  - engaged
 - title: Adicione um som
-  completion: internal
+  completion:
+  - internal
 - title: Compartilhe seu cartão eletrônico com amigos e familiares
