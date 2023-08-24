@@ -1,11 +1,11 @@
 ---
-title: "Una tarjeta electrónica audiovisual"
+title: Una tarjeta electrónica audiovisual
 hero_image: images / banner.png
 description: Crea una tarjeta electrónica audiovisual con Scratch
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: Introducción
@@ -13,7 +13,11 @@ steps:
     title: Graba tu video
   - 
     title: Añade tu GIF
+    completion:
+      - engaged
   - 
     title: Añade algo de sonido
+    completion:
+      - internal
   - 
     title: Comparte tu tarjeta electrónica con amigos y familiares
