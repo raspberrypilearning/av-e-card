@@ -1,11 +1,11 @@
 ---
-title: "시청각 전자 카드"
+title: 시청각 전자 카드
 hero_image: images/banner.png
 description: 스크래치로 시청각 전자 카드 만들기
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: 소개
@@ -13,7 +13,11 @@ steps:
     title: 동영상 녹화하기
   - 
     title: GIF 추가하기
+    completion:
+      - engaged
   - 
     title: 소리 추가하기
+    completion:
+      - internal
   - 
     title: 시청각 전자 카드를 친구, 가족과 공유하기
