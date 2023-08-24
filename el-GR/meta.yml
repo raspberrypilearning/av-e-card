@@ -1,11 +1,11 @@
 ---
-title: "Μια οπτικοακουστική ηλεκτρονική κάρτα"
+title: Μια οπτικοακουστική ηλεκτρονική κάρτα
 hero_image: images/banner.png
 description: Δημιούργησε μια οπτικοακουστική ηλεκτρονική κάρτα με το Scratch
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: Εισαγωγή
@@ -13,7 +13,11 @@ steps:
     title: Κατέγραψε το βίντεό σου
   - 
     title: Πρόσθεσε το GIF σου
+    completion:
+      - engaged
   - 
     title: Πρόσθεσε λίγο ήχο
+    completion:
+      - internal
   - 
     title: Διαμοιράσου την ηλεκτρονική σου κάρτα με φίλους και συγγενείς
