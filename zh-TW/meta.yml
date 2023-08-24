@@ -1,11 +1,11 @@
 ---
-title: "視聽電子賀卡"
+title: 視聽電子賀卡
 hero_image: images/banner.png
 description: 使用 Scratch 創造一張視聽電子賀卡
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: 介紹
@@ -13,7 +13,11 @@ steps:
     title: 錄製一段您的影片
   - 
     title: 添加您的GIF檔案
+    completion:
+      - engaged
   - 
     title: 增加一點音效
+    completion:
+      - internal
   - 
     title: 與親朋好友分享您的電子賀卡
