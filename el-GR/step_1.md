@@ -4,7 +4,7 @@
 
 ### Τι θα φτιάξεις
 
---- no-print --- Κάνε κλικ στην πράσινη σημαία για να δεις την ηλεκτρονική κάρτα. <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Κάνε κλικ στην πράσινη σημαία για να δεις την ηλεκτρονική κάρτα. <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 --- /no-print ---
 
