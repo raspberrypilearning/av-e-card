@@ -4,7 +4,7 @@ En aquest projecte, faràs servir la plataforma Scratch per fer una targeta audi
 
 ### Què faràs
 
---- no-print --- Fes clic a la bandera verda per veure la targeta electrònica. <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Fes clic a la bandera verda per veure la targeta electrònica. <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 --- /no-print ---
 
