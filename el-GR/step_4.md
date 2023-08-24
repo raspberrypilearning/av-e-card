@@ -41,9 +41,8 @@ when flag clicked
 switch costume to (ezgif v)
 set size to (150) %
 forever
-+broadcast (message1 v)
++broadcast (μήνυμα1 v)
 repeat (35)
-+wait (0.04) seconds
 next costume
 ```
 
