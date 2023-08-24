@@ -4,7 +4,7 @@
 
 ### 您將會做出
 
-點擊綠色旗觀看電子賀卡。 <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+點擊綠色旗觀看電子賀卡。 <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 --- /no-print ---
 
