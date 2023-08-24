@@ -76,7 +76,6 @@ when flag clicked
 +set size to (150) %
 forever
 repeat (35)
-+wait (0.04) seconds
 next costume
 ```
 
@@ -92,7 +91,6 @@ when flag clicked
 set size to (150) %
 forever
 repeat (35)
-+wait (0.04) seconds
 next costume
 ```
 
