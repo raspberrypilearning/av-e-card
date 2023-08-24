@@ -2,7 +2,7 @@
 
 --- task ---
 
-Clique sur l'onglet **Sons** pour ton sprite.
+Clique sur l'onglet **Sons** de ton sprite.
 
 ![image montrant les onglets de sons sélectionnés pour le sprite](images/sounds-tab.png)
 
@@ -43,6 +43,7 @@ set size to (150) %
 forever
 +broadcast (message1 v)
 repeat (35)
++wait (0.04) seconds
 next costume
 ```
 
@@ -61,7 +62,7 @@ play sound (recording1 v) until done
 
 --- task ---
 
-Tu aimerais peut-être utiliser un bloc `attendre`{:class="block3control"} pour contrôler le début de la lecture du son.
+Tu peux aussi utiliser un bloc `attendre`{:class="block3control"} pour contrôler le début de la lecture du son.
 
 ```blocks3
 when I receive (message1 v)

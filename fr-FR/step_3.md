@@ -10,21 +10,21 @@ Va sur [rpf.io/scratch-new](https://rpf.io/scratch-new) pour ouvrir un nouveau p
 
 Clique sur l'icône **Corbeille** pour supprimer le sprite de chat par défaut.
 
-![image montrant un sprite de chat avec une icône de poubelle](images/delete-sprite.png)
+![image montrant un sprite de chat avec une icône de corbeille](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Maintenant, survole le bouton **Choisir un Sprite** puis clique sur **Importer un sprite** pour télécharger un nouveau sprite.
+Maintenant, survole le bouton **Choisir un sprite** puis clique sur **Importer un sprite** pour importer un nouveau sprite.
 
-![image montrant l'option de menu Choisir un sprite avec téléchargement d'un sprite sélectionné](images/upload-sprite.png)
+![image montrant l'option de menu Choisir un sprite avec import d'un sprite sélectionné](images/upload-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Sélectionne ton GIF dans le navigateur de fichiers, puis télécharge-le.
+Sélectionne ton GIF dans le navigateur de fichiers, puis importe-le.
 
 ![image montrant la sélection de GIF dans le navigateur de fichiers](images/select-gif.png)
 
@@ -54,7 +54,7 @@ next costume
 
 --- task ---
 
-Ton animation pourrait être un peu rapide, alors ajoute un bloc `attendre`{:class="block3control"} pour la ralentir un peu.
+Si ton animation est trop rapide, ajoute un bloc `attendre`{:class="block3control"} pour la ralentir un peu.
 
 
 ```blocks3
@@ -76,6 +76,7 @@ when flag clicked
 +set size to (150) %
 forever
 repeat (35)
++wait (0.04) seconds
 next costume
 ```
 
@@ -91,6 +92,7 @@ when flag clicked
 set size to (150) %
 forever
 repeat (35)
++wait (0.04) seconds
 next costume
 ```
 
@@ -99,7 +101,7 @@ next costume
 
 --- task ---
 
-Clique sur le drapeau vert pour regarder ta vidéo en cours de lecture sur la scène.
+Clique sur le drapeau vert pour lancer et voir ta vidéo sur la scène.
 
 --- /task ---
 
