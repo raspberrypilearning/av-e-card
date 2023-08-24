@@ -1,11 +1,11 @@
 ---
-title: "بطاقة إلكترونية سمعية بصرية"
+title: بطاقة إلكترونية سمعية بصرية
 hero_image: images/banner.png
 description: قم بأنشاء بطاقة إلكترونية سمعية بصرية بإستخدام برنامج Scratch
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: المقدمة
@@ -13,7 +13,11 @@ steps:
     title: قم تسجيل الفيديو الخاص بك
   - 
     title: أضف ملف GIF
+    completion:
+      - engaged
   - 
     title: أضف الصوت
+    completion:
+      - internal
   - 
     title: شارك بطاقتك الإلكترونية مع الأصدقاء والعائلة
