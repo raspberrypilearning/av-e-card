@@ -65,7 +65,7 @@ title: Grabación de vídeo con cámara web en Chrome OS
 
 ![imagen que muestra la aplicación de la cámara con el botón de grabación presionado](images/hitrecord.png)
 
-- Cuando hayas terminado, haga clic en el botón** Grabar ** nuevamente, y encontrarás tu archivo en la carpeta` Vídeos `.
+- Cuando hayas terminado, haz clic en el botón **Grabar** nuevamente, y encontrarás tu archivo en la carpeta `Vídeos`.
 
 ![imagen que muestra la carpeta de vídeo abierta en Chrome OS](images/videosfolder.png)
 
@@ -75,7 +75,7 @@ Ahora que tienes el vídeo, debes convertirlo a un GIF. Una manera fácil de hac
 
 --- task ---
 
-First, upload your video: click the **Browse** button, click on your file, then click the **Upload video** button.
+Primero, sube tu vídeo: haz clic en el botón **Examinar**, haz clic en tu archivo, luego haz clic en el botón **Cargar**.
 
 ![imagen que muestra la interfaz de carga de ezgif.com](images/ezgif-upload.png)
 
@@ -91,7 +91,7 @@ Para hacer las cosas un poco más rápido en Scratch, debes optimizar el GIF. Pa
 
 --- task ---
 
-Click the **Convert to GIF** button, and when the GIF has been created, click on the **Save** icon to save your GIF.
+Haz clic en **Convertir** y, cuando se haya creado el GIF, haz clic en el icono **Guardar** para guardar tu GIF.
 
 ![imagen del botón convertir en ezgif.com](images/convert_btn.png) ![imagen del icono de guardar en ezgif.com](images/save_icon.png)
 
