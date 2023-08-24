@@ -1,11 +1,11 @@
 ---
-title: "Um cartão eletrônico audiovisual"
+title: Um cartão eletrônico audiovisual
 hero_image: images/banner.png
 description: Crie um cartão eletrônico audiovisual com o Scratch
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: Introdução
@@ -13,7 +13,11 @@ steps:
     title: Grave seu vídeo
   - 
     title: Adicione seu GIF
+    completion:
+      - engaged
   - 
     title: Adicione um som
+    completion:
+      - internal
   - 
     title: Compartilhe seu cartão eletrônico com amigos e familiares
