@@ -4,7 +4,7 @@ In questo progetto, utilizzerai la piattaforma Scratch per creare un biglietto d
 
 ### Che cosa creerai
 
---- no-print --- Clicca sulla bandiera verde per vedere il biglietto d'auguri. <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+--- no-print --- Clicca sulla bandiera verde per vedere il biglietto d'auguri. <iframe src="https://scratch.mit.edu/projects/419313682/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 --- /no-print ---
 
