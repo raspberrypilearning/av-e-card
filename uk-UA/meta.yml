@@ -1,11 +1,11 @@
 ---
-title: "Аудіовізуальна електронна листівка"
+title: Аудіовізуальна електронна листівка
 hero_image: images/banner.png
 description: Створи аудіовізувальну електронну листівку за допомогою Скретч
 version: 4
 listed: true
 copyedit: true
-last_tested: "2020-08-21"
+last_tested: '2020-08-21'
 steps:
   - 
     title: Вступ
@@ -13,7 +13,11 @@ steps:
     title: Запиши власне відео
   - 
     title: Додай свій GIF
+    completion:
+      - engaged
   - 
     title: Додай трохи звуку
+    completion:
+      - internal
   - 
     title: Поділися своєю електронною листівкою з друзями та родиною
