@@ -3,7 +3,7 @@ title: An audiovisual e-card
 hero_image: images/banner.png
 description: Create an audiovisual e-card with Scratch
 version: 4
-listed: true
+listed: false
 copyedit: true
 last_tested: '2020-08-21'
 steps:
